@@ -5,7 +5,6 @@ import { Header } from "@/components/Header";
 import { toast } from "sonner";
 import { Atom, Loader2, CheckCircle2, XCircle, Eye, Lightbulb, ChevronRight, ChevronLeft, Layers, Pencil, Save, X, Maximize2 } from "lucide-react";
 import ImageZoomModal from "@/components/ImageZoomModal";
-import MathText from "@/components/MathText";
 
 const DIFF_COLORS = {
   Easy: "bg-emerald-50 text-emerald-700 border-emerald-200",
@@ -213,44 +212,34 @@ export default function ChapterPractice() {
 
                   // ---- Image-mode question (pixel-perfect from source PDF) ----
                   if (q.question_image) {
-                    const useQLatex = isMobile && !!q.question_latex;
-                    const useSolLatex = isMobile && !!q.explanation_latex;
                     return (
                       <div key={q.question_no} className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
                         <div className="mb-3 flex flex-wrap items-center gap-2">
                           <span className="flex h-6 min-w-6 items-center justify-center rounded-md bg-blue-600 px-1.5 text-xs font-extrabold text-white">{q.question_no}</span>
                           {q.year && <span className="rounded-md border border-slate-200 bg-slate-50 px-2 py-0.5 text-[11px] font-bold text-slate-600">{q.year}</span>}
-                          {!useQLatex && (
-                            <button
-                              type="button"
-                              onClick={() => setZoom({ src: chapterImageUrl(q.question_image), alt: `Question ${q.question_no}` })}
-                              className="ml-auto flex items-center gap-1 rounded-md border border-slate-200 bg-white px-2 py-1 text-[11px] font-bold text-slate-600 transition-all hover:border-blue-300 hover:text-blue-600"
-                              title="Zoom question"
-                            >
-                              <Maximize2 className="h-3.5 w-3.5" /> Zoom
-                            </button>
-                          )}
-                        </div>
-
-                        {useQLatex ? (
-                          <MathText className="block whitespace-pre-line text-[15px] font-medium leading-relaxed text-slate-800">
-                            {q.question_latex}
-                          </MathText>
-                        ) : (
                           <button
                             type="button"
                             onClick={() => setZoom({ src: chapterImageUrl(q.question_image), alt: `Question ${q.question_no}` })}
-                            className="block w-full overflow-hidden rounded-xl border border-slate-100 bg-white text-left"
-                            title="Tap to zoom"
+                            className="ml-auto flex items-center gap-1 rounded-md border border-slate-200 bg-white px-2 py-1 text-[11px] font-bold text-slate-600 transition-all hover:border-blue-300 hover:text-blue-600"
+                            title="Zoom question"
                           >
-                            <img
-                              src={chapterImageUrl(q.question_image)}
-                              alt={`Question ${q.question_no}`}
-                              className="mx-auto block h-auto w-full max-w-full"
-                              loading="lazy"
-                            />
+                            <Maximize2 className="h-3.5 w-3.5" /> Zoom
                           </button>
-                        )}
+                        </div>
+
+                        <button
+                          type="button"
+                          onClick={() => setZoom({ src: chapterImageUrl(q.question_image), alt: `Question ${q.question_no}` })}
+                          className="block w-full overflow-hidden rounded-xl border border-slate-100 bg-white text-left"
+                          title="Tap to zoom"
+                        >
+                          <img
+                            src={chapterImageUrl(q.question_image)}
+                            alt={`Question ${q.question_no}`}
+                            className="mx-auto block h-auto w-full max-w-full"
+                            loading="lazy"
+                          />
+                        </button>
 
                         <div className="mt-4">
                           <p className="mb-2 text-[11px] font-bold uppercase tracking-wide text-slate-400">Choose your answer</p>
@@ -277,20 +266,14 @@ export default function ChapterPractice() {
                                   className={`flex w-full items-center gap-3 rounded-xl border px-3 py-2.5 text-left transition-all ${cls}`}
                                 >
                                   <span className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-[11px] font-bold uppercase ${badge}`}>{L}</span>
-                                  {isMobile && q.options_latex?.[L] ? (
-                                    <MathText className="min-w-0 flex-1 text-[15px] text-slate-800">
-                                      {q.options_latex[L]}
-                                    </MathText>
-                                  ) : (
-                                    <span className="min-w-0 flex-1 overflow-hidden">
-                                      <img
-                                        src={chapterImageUrl(optImg)}
-                                        alt={`Option ${L.toUpperCase()}`}
-                                        className="h-auto max-h-8 w-auto max-w-full object-contain md:max-h-20"
-                                        loading="lazy"
-                                      />
-                                    </span>
-                                  )}
+                                  <span className="min-w-0 flex-1 overflow-hidden">
+                                    <img
+                                      src={chapterImageUrl(optImg)}
+                                      alt={`Option ${L.toUpperCase()}`}
+                                      className="h-auto max-h-8 w-auto max-w-full object-contain md:max-h-20"
+                                      loading="lazy"
+                                    />
+                                  </span>
                                   {show && isAns && <CheckCircle2 className="h-4 w-4 shrink-0 text-emerald-600" />}
                                   {show && isPick && !isAns && <XCircle className="h-4 w-4 shrink-0 text-rose-500" />}
                                 </button>
@@ -317,7 +300,7 @@ export default function ChapterPractice() {
                                   {pick === q.answer ? "You got it right" : `You chose ${pick.toUpperCase()}`}
                                 </span>
                               )}
-                              {q.solution_image && !useSolLatex && (
+                              {q.solution_image && (
                                 <button
                                   type="button"
                                   onClick={() => setZoom({ src: chapterImageUrl(q.solution_image), alt: `Solution ${q.question_no}` })}
@@ -328,11 +311,7 @@ export default function ChapterPractice() {
                                 </button>
                               )}
                             </p>
-                            {useSolLatex ? (
-                              <MathText className="block whitespace-pre-line text-sm leading-relaxed text-slate-700">
-                                {q.explanation_latex}
-                              </MathText>
-                            ) : q.solution_image ? (
+                            {q.solution_image ? (
                               <button
                                 type="button"
                                 onClick={() => setZoom({ src: chapterImageUrl(q.solution_image), alt: `Solution ${q.question_no}` })}
