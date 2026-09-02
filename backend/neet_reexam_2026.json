@@ -1,0 +1,2442 @@
+[
+ {
+  "id": 1,
+  "subject": "Physics",
+  "question": "An ideal gas is made of polyatomic molecules. Each of the molecules has three translational, three rotational and f number of vibrational modes. If the ratio of heat capacities Cp/Cy of the gas is 8/7, then the value of fis:",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "4"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 2,
+  "subject": "Physics",
+  "question": "Sol. The total internal energy for one mole of gas, U 3 3 = (Shor + paket + TksT JNa =(3+f)kg™N, =(3 + f)RT dU es R Gy = 47 = B+h) Ce=Cy+R=(4+9R Co 447 By: oni == (given G, 347 oven) => f=4 One main scale division of a Vernier calliper is equal to 1 mm and the number of divisions on the Vernier scale is 10. When both the jaws touch each other, the Vernier scale shifts to the left of zero of the main scale in such a way that 4\" Vernier division coincides with a division of the main scale. If this Vernier calliper measures the length of the wire to be 1 cm, the actual length of the wire is :",
+  "options": [
+   "0.96 cm",
+   "1.00 cm",
+   "1.04cm",
+   "0.60 cm"
+  ],
+  "correct": null,
+  "answer_note": "No option is correct",
+  "needs_fix": true
+ },
+ {
+  "id": 3,
+  "subject": "Physics",
+  "question": "Three identical p-n junction diodes D;, Dz, and Ds are connected across a battery as shown in the figure. If the width of the depletion regions of D;, D2 and D3 are W1, W2 and Ws, respectively, then the correct option is: 1kQ ~~ OD, > D, > 1kQ 5V",
+  "options": [
+   "Wa=Wi >We",
+   "Wa>W2>W,",
+   "We>Wi = Ws",
+   "Wi>We> Ws"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 4,
+  "subject": "Physics",
+  "question": "Consider a spring-mass simple harmonic oscillator in one dimension. The mass of the particle is m kg and the spring constant is k Nm. At a given instant, the extension of the spring is x-meter and the speed of the particle is vms~'. On the x - v plane, if the graph of v as a function of x is a circle, then the correct option is:",
+  "options": [
+   "k=m",
+   "k=m - =",
+   "k= vm",
+   "k=—"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 5,
+  "subject": "Physics",
+  "question": "Sol. Velocity v as a function of n is given by v = ovA? — x? v2 = 0° (A? -x?) v2 3a ad tx =A or Given that above equation is of a circle Hence, w* = 1 An electromagnetic wave travelling in a lossless dielectric medium having a dielectric constant, ¢,= 9, has the electric field, E, = Eo sin (kz — 2x x 10°t) Vm~t where Eo is the amplitude and k is the wave vector. Among the following options, the incorrect choice is",
+  "options": [
+   "The wavelength of the electromagnetic wave inside the medium is 300 m",
+   "The magnetic field is given by the relation B, == sin(kz -2n%10°t) where v is the speed of the electromagnetic wave inside the medium",
+   "The direction of propagation of the electromagnetic wave is along +z",
+   "The speed of the electromagnetic wave inside the medium is 108 ms"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 6,
+  "subject": "Physics",
+  "question": "Sol. E, = Eo sin (kz — 2 * 10®t) = Eo sin (kz — wf) Direction of propagation of wave is along +z axis. Speed of wave in medium c 3x10° ye Met PO m Je, Jo 3 Vm = 108 m/s = Wavelength in medium = Am v, 10° Am == = 100 m[-- fo = constant 0 Ee DentO8 [ 1 2n .. Wavelength of the electromagnetic wave inside the medium is 100 m. uud Note: Among the options, in the expression B, = “pak 2nx10°t), Bo should be replaced by Eo. A frictionless circular wire of unit radius is fixed on the horizontal plane. Two-point particles of unit mass start moving simultaneously from point ao = x) with identical uniform angular speeds in opposite directions, and meet again at point a(0 = -Z) . During this time, which of the following figures schematically represent the magnitude of the total linear momentum P of the system, as a function of 0? A: “/ ~ Bi P P,",
+  "options": [
+   "",
+   "0 m2 —n/2 m2 —n/2 P P.",
+   "",
+   "0 0 nl2 —n/2 n/2 —nl2"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 7,
+  "subject": "Physics",
+  "question": "Sol. Pp. net — P,., =-2mv cos6j sd 2 So most appropriate graph is P, at 0=~,P,,, =0, at O=—5, Prat =0 nl2 —nl2 In Geiger-Marsden experiment, the number of scattered a-particles N(@) is plotted as a function of scattering —mv sin@i — mv cos§j + mv sini — mvcos6j angle 8. Which of the following options represents the correct plot? Nie) 10° 10 (1) 10* 10\" 10- 10% 10 (in degree) 0 30 60 90 120 150 180 10% (3) 40: 10° 10% 10°. 10 (in degree) 0 30 60 90 120 150 180",
+  "options": [],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 8,
+  "subject": "Physics",
+  "question": "Sol. Number of scattered a-particles at angles (a) (2) (4) N(0) 10° 10 10+ 10° 10% 10° 10 O(in degree) 0 30 60 90 120 150 180 10 ‘(in degree) 0 30 60 90 120 150 180 Graph will be N() 0 Consider three media P, Q and R with refractive indices 1, 1.25, and 1.5 respectively. The medium Q having a thickness of 5 cm is placed between extended media P and R as shown in the figure. An object O is placed at the centre of medium Q. If viewed from medium P near the normal direction, the apparent depth of O is hi. For similar observation from medium R, the apparent depth is hz. The value of |h: — hz|, in cm, is: (1) 1 (3) 3",
+  "options": [],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 9,
+  "subject": "Physics",
+  "question": "Consider that os, ks, b represents Stefan-Boltzmann constant, Boltzmann constant and Wien’s displacement law constant, respectively. The dimension of o,kg'bis",
+  "options": [
+   "[L'K7]",
+   "[L'T\"K*]",
+   "[L‘T*K4]",
+   "[LT\"K?]"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 10,
+  "subject": "Physics",
+  "question": "Sol. os = MT“K~+ ke = M'L?2 TK\" b=M°LT°K ogkg'b = [MT-SK-][M-'L-2T2K][M°LT°K] =T\"'K2L-1 = L'T-'K-2 For sound waves, if the number of nodes for the 5\" harmonic of an open-ended pipe is n and that for the 9\" harmonic of the same pipe with one of its ends closed is m, the ratio = is (1) (2) 4 (3)",
+  "options": [],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 11,
+  "subject": "Physics",
+  "question": "Sol. For open organ pipe — Number of nodes are same as number of harmonics alo alo 5 (4) 3 n=5 For closed organ pipe — There are only odd harmonics For 1s harmonic — Number of node > 1 For 3'¢ harmonic — Number of node > 2 For 5\"\" harmonic > Number of node —> 3 For 7 harmonic — Number of node > 4 For 9\"\" harmonic > Number of node > 5 m=5 Me m § Two infinitely long parallel conducting wires A and B carry currents / and 2/, respectively, in the same direction. The wire A has uniform mass per unit length 2 and lies on an insulated floor. The wire B is kept fixed at a height h above the floor. The minimum magnitude of h so that the wire A does not rise from the floor is: [g is the acceleration due to gravity and j1o is the permeability of free space.] 2 2 ay bolh (2) 2HolL TAQ mhg 4g/” tol” 3): 4) +o (3) mag (4) 2nrg",
+  "options": [],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 12,
+  "subject": "Physics",
+  "question": "13. Sol. wire-B 2i wire-A a I Force per unit length on wire A by wire B foto 2-2! _ to Al, 4x h 4x h If Fe¢ < mg, weight of wire A, then wire does not rise from the floor. So, F < mg, An ac voltage V = 220 sin(2 10°t) Volt is applied to a series LCR circuit. Then the current amplitude in this circuit is: (Given : L= 10 mH, C = 25 pF, R= 100 Q)",
+  "options": [
+   "5.5A",
+   "11.0A",
+   "22.0A",
+   "2.2A"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 13,
+  "subject": "Physics",
+  "question": "Sol. Angular frequency of AC source, « = 2 x 10% rad/s Inductive reactance, X, = ol = (2x103)x(10x10-9) = 200 _ 1 oC (2x103)x(25x10) Impedance Z for circuit = R («\" X, = X¢ and circuit is at resonance) “. current amplitude, fg = 2 = a = 3 =2.2A Consider a fixed uniformly charged insulating sphere with radius R and total charge +Q. A point charge —q (q<<Q) with mass m is released from rest at a distance of 3R from the centre of the charged sphere. When the point charge reaches the surface of the sphere, its speed is: (co is the permittivity of vacuum, neglect gravitational forces). Capacitive reactance, X¢ = =2002 a) j= an megmR 3xegmR @ |-~ 4) | megmR 4negmR",
+  "options": [],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 14,
+  "subject": "Physics",
+  "question": "Abeam of light falls on a metal surface such that photo-electrons are generated. If power of the light source starts to decrease linearly with time f, then variation of the photocurrent / and magnitude of the stopping potential |V| with time is best represented by: ! IM ! M",
+  "options": [
+   "",
+   "t t t t ! IV | IM",
+   "",
+   "t t t t"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 15,
+  "subject": "Physics",
+  "question": "Sol. Power of source is decreasing that means number of photon is decreasing linearly with time and source is same so, energy of photon is same. Power (P) « nE P< n (number of photons per second) and energy of photon is constant. C. 15; Two planets P; and P2 with equal mass have radii Ri and Re, respectively, where Rp = . . The escape speeds of P; and P2 are vi and v2, respectively. Then v2 is: (1) 1 (2) V2 1 (3) 2 ” =",
+  "options": [],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 16,
+  "subject": "Physics",
+  "question": "2 sphere. In this process, the magnitude of the total work done on the point charge is phe . The value of nis : Neo (go is the permittivity of vacuum)",
+  "options": [
+   "6",
+   "9",
+   "18",
+   "2"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 17,
+  "subject": "Physics",
+  "question": "One mole of an ideal monatomic gas undergoes a cyclic process as shown in the figure. The total heat supplied to the gas is: (1) 500J (3) 800J",
+  "options": [],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 18,
+  "subject": "Physics",
+  "question": "19. Sol. For any cyclic process, change in internal energy AU = 0 2 5 v(m’) Here, total heat exchange AQ =W+ AU =Ww = (300 — 100) (5 - 2) = 2003 = 600 J The following table presents the part of the electromagnetic spectrum and their corresponding major applications. Part of the electromagnetic spectrum Applications Ps Microwave I. For purifying the water UV rays ll. | For warming the food R. | Gamma rays Ill. | For AM and FM communication systems S. | Radio wave IV. | For treating the Cancer cells The correct option is: (1) P-l, Q-IV, R-II, S-Ill (3) P-Il, Q-IV, R-Ill, S-I",
+  "options": [],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 19,
+  "subject": "Physics",
+  "question": "Sol. Part of the electromagnetic spectrum (2) Pell, Ql, R-lV, S-Ill (4) P-1, Q-ll, Relll, S-IV Applications Microwave UV rays For warming of food For purifying the water Gamma rays Radio wave - For treating the cancer cells For AM and FM communication systems A car travels on a circular racetrack of radius 50 m, which is banked at an angle 9. If the car travels at a speed 10 ms~', then the wear and tear on its tyres is minimum. Taking the acceleration due to gravity to be 10 ms~, the value of 0 is: (1) tan-*(2) (3) tan-1(2V3)",
+  "options": [],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 20,
+  "subject": "Physics",
+  "question": "21. Consider a particle moving along a straight line, whose position as a function of time is given by s(t) = at? — Bt +, where a = 1 ms~, 8 = 6 ms“ and y = 5 m. The average speed of the particle, in ms~' from t=O tot=6s is:",
+  "options": [
+   "6",
+   "3",
+   "0",
+   "12"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 21,
+  "subject": "Physics",
+  "question": "Sol. Position (s) S=af?-pt+y S=f-6t+5 --(i) Velocity (v) v= 98 2-6 (ii) When v = 0 = 2t-6 t=3s From (ii), graph between (v/t) For distance d= (+A1) + Az du xax6+ x6 2 2 d=3x6=18 Distance d 18 4 Average speed (Vavg) = ————— = — = —=3ms Ce Me ar 6 A point charge Q is placed inside a cavity within a solid isolated conducting sphere. Consider points A, B and C as shown in the figure, where the magnitudes of the electric fields are Ea, Es, Ec, respectively. The points Band C are at the same distance from the center of the solid sphere. The correct option is :",
+  "options": [
+   "E,+0, Eg=Ec",
+   "E,=0, Eg> Ec",
+   "Ea#0, Es< Ec",
+   "Ex,=0, Es=Ec"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 22,
+  "subject": "Physics",
+  "question": "23. Sol. Due to charge Q present inside cavity, E, # 0 Charge distribution will be uniform on the outer surface of conducting sphere, Since B and C are at same distance from centre of sphere, Eg = Ec (Due to electrostatic shielding) ap Ey, Peet In the measurement of viscosity of liquids using terminal velocity experiment, spherical balls of same radius but having different densities are used. The variation of the terminal velocity (v) with the ratio of density of spherical ball (c) to density of the liquid (p), is best represented by: (2) (3) (4) 0 1 olp 0 1 olp",
+  "options": [],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 23,
+  "subject": "Physics",
+  "question": "2 Sol. Terminal velocity V, = *(o-p) 2r? (oc Fo =) Al) y=mx+e (ll) Equation number (I) is like equation number which is straight line with negative intercept. olp A ray of light with wavelength ’ is incident on three different photoelectric cells namely 1, 2 and 3. The threshold wavelength of these photoelectric cells are 41, 42, and As, respectively and the magnitude of stopping potentials of these cells are Vi, V2 and Vs, respectively. The relation between 2 and threshold wavelengths are A1 <A, A2 > and 43 >> A. The correct option is:",
+  "options": [
+   "Vi =0, V2> Vs",
+   "Vi > V2, Vs =0",
+   "Vi < V2, Vi=0",
+   "Vi=0, Va< V3"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 24,
+  "subject": "Physics",
+  "question": "Accurrent /o flows through a metallic circular loop of radius ras shown in the figure. Resistance of the segment ABC is half that of ADC. Magnitude of magnetic field at the centre O of the loop is : I, A B D Cc in Holo Holo 1 — 2 = (1) 4r (2) 2r Holo Holo 3) — 4) +0o @) 2nr (4) 12r",
+  "options": [],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 25,
+  "subject": "Physics",
+  "question": "26. 27. B= 8, +6, _ Hoh(+) + Hola (x) 4 4r _ Ho2lo Holo _ Holo 4rx3 4rx3 12r A particle of mass M moves along a horizontal x axis from x = 0 to x = L. The coefficient of kinetic friction varies as a function of x as u(x) = 110 — ax, where uo, a are constants of appropriate dimensions, so that us(L) = 0. The total work done by the frictional force during the motion is nuoMgL, where g is the acceleration due to gravity. The value of n is:",
+  "options": [
+   "1",
+   "1",
+   ">",
+   "3"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 26,
+  "subject": "Physics",
+  "question": "Sol. Given j1x(x) = wo — ax and px (L) = 0 = po — aL > po = a Magnitude of work done by frictional force, W, = fow, where dW, = f,dx = 1,Ndx = 1,Mgdx = (jg — ax) Mgdx L L 2 x » W, = | toMgdx ~ f aMgxdx = ppMgIxl — aMg BE 0 0 10 E MgL => mugMgL = 1pMgL -(to) ol | i aa on-1 2 In a solar system, the time-period of revolution of a planet tracing a circular orbit of radius R is proportional to:",
+  "options": [
+   "R8?",
+   "R*",
+   "RS",
+   "RV"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 27,
+  "subject": "Physics",
+  "question": "Sol. In planetary motion T?2 « R?8 Tx Ri A solid sphere A of radius R and mass M is attached at a point to a smaller solid sphere B of radius r< R and mass m < M. Assume that the line joining their centres lies along the horizontal. The moment of inertia of the system calculated about a vertical axis passing through the centre of A is /, and that calculated about a vertical axis passing through the centre of B is /a. The difference /4— Is is: 1's ils 1 1! \\ A B A 1B",
+  "options": [
+   "(m—MY(R + rP",
+   "(m-M\\(R-r?",
+   "0",
+   "(M—m)(R + r?"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 28,
+  "subject": "Physics",
+  "question": "The lens combination as shown in the figure, consists of two lenses, L: and La, of the focal lengths +10 cm and —10 cm, respectively. The position of the image formed is: L, L, Slade Vela Weal i Wl ee 30 cm 3cm",
+  "options": [
+   "60cm to the left of the concave lens",
+   "30cm to the right of the concave lens",
+   "60 cm to the right of the concave lens",
+   "20cm to the left of the concave lens"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 29,
+  "subject": "Physics",
+  "question": "30. vag 1 at Et tl ta oyu Fv 12 10 v’ 12 10 60 *. v'=-60 cm => Final image formed at 60 cm to the left of concave lens. An ideal Zener diode with breakdown voltage of —-3 V is reverse biased with a negative input voltage V| =-5 V. The magnitude of voltage difference between point B and A is: CC), 8 R A",
+  "options": [
+   "2Vv",
+   "1V",
+   "OV",
+   "3V"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 30,
+  "subject": "Physics",
+  "question": "\\Vgal =(6-3)=2V Three identical capacitors, P, Q and S, each of the capacitance C, are connected to a battery of voltage V, as shown in the figure. If the energy stored in the capacitor P and total energy stored in the system are Up Up and U;, respectively, then the ratio Ue is: T P Q oo = . Vv",
+  "options": [
+   "1/3",
+   "1/2",
+   "1/6",
+   "2/3"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 31,
+  "subject": "Physics",
+  "question": "Vv 4 2 ae rw aaa Vv Ur =Up +Ug +Us =30(¥ 2 cv? cv? + +tov2 = Sev? = 8 8 2 8 A conducting loop of finite resistance lies on the x — y plane. There is a constant magnetic field in the z direction. The area of the loop varies with time t, as A = Ao(1 + sint) in appropriate units. The figure that correctly indicates the qualitative behaviour of the power P dissipated in the loop as a function of time is: P. (1) 0 1d P. (3) 0 t",
+  "options": [],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 32,
+  "subject": "Physics",
+  "question": "Sol. A = Ao(1 + sint) = BA = BAo(1 + sint) P. (2) (4) o > Consider two circuits, (A) and (B), each having two resistors. One of them has a positive temperature coefficient of resistance, +a, while the other one has a negative temperature of coefficient, -a, as shown in the figure. The current through these circuits are denoted by /, and /z. At initial temperature, the resistance of the two resistors is Ro. As the temperature is increased, the correct option that describes the variation of current in these circuits is: ty fren ean ye en R11 + aAT) (B)",
+  "options": [
+   "Ja decreases while /s increases",
+   "Ia increases while /g decreases",
+   "Both /4 and /g remain constant",
+   "Ja remains constant while /g increases"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 33,
+  "subject": "Physics",
+  "question": "34. Bob B of mass m at rest is hanging vertically from the ceiling via a massless string of length 10 m, as shown in the figure. Point mass A of mass m travelling horizontally with speed 10 ms“ hits bob B elastically. The bob Brises h meter after the collision. Taking the acceleration due to gravity g = 10 ms~ and neglecting the size of the bob, the value of h is: A 8B oo 10 ms\"",
+  "options": [
+   "7",
+   "5",
+   "2.5",
+   "8"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 34,
+  "subject": "Physics",
+  "question": "Sol. + To reach the horizontal position, velocity of bob should be = 10V2 mis + Velocity of bob and point mass will be interchanged after elastic collision By conservation of energy 13 mgh ==mv' ae A cylindrical cork of uniform density floats in a liquid of density p,. If the cork is depressed slightly and released, it oscillates harmonically with time period T. If the same cork floats in another liquid of density po, then the similar oscillation has time period 27. The value of p2 / p, is:",
+  "options": [
+   "2",
+   "1/2",
+   "1/4",
+   "4"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 35,
+  "subject": "Physics",
+  "question": "36. 37. The mean free path of molecules in an ideal gas A is half that of another ideal gas B. The diameter of the spherical molecules of gas A is twice the diameter of the molecules of B. If number densities of the gases A and B are na and ne, respectively, the correct option is: 1 (1) na = 2ng (2) na=4\"6 @) ma=3N6 (4) m=ne",
+  "options": [],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 36,
+  "subject": "Physics",
+  "question": "1 Sol. A, ==’ Ol. AA 2*8 xe) V2nd*n ds = 2dp 1 1 2ndgng Ap = ha _1_ 08 Me dg 2 dam ng _ 2-08 mB 4 na _2-dg 1 ng 4d2 2 Consider the following nuclear reaction 234 238 __;\"\" Th+* He Take masses of 258U, 2*Th and “He as 238.050 u, 234.043 u and 4.003 u, respectively. The Q value for the reaction, in keV, is: [Given: 1 u = 931.5 MeV c-?]",
+  "options": [
+   "3730",
+   "3736",
+   "3740",
+   "3726"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 37,
+  "subject": "Physics",
+  "question": "Sol. Q-value for the nuclear reaction is given by, Q = Amc? 238y__, 234Th + 4He has mass defect Am = Mreactants — Mproducts = Am= 238.050 — (234.043 + 4.003) = 0.004 u Q= 0.004 x 931.5 MeV = 3.726 MeV = 3726 keV Consider a long solenoid of length / and radius r. If n is the number of turns per unit length and 0 is the permeability of free space, the inductance of the solenoid is :",
+  "options": [
+   "pon???",
+   "(uo/2x)n?r7t",
+   "2ponn?r?/",
+   "ponn?r?/"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 38,
+  "subject": "Physics",
+  "question": "39. 40. Sol. Self inductance of solenoid L= n?Al L=yon?ar?l [-> A=ar? | Which of the following measurements require ‘index correction’?",
+  "options": [
+   "Measurement of gravitational acceleration using simple pendulum",
+   "Measurement of focal length of lenses using optical bench",
+   "Measurement of speed of sound using resonance tube",
+   "Measurement of resistance of a wire using meter bridge"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 39,
+  "subject": "Physics",
+  "question": "Sol. Index correction is an adjustment which need to perform in the experiments related to optical bench while measuring the focal length of lenses using optical bench. The temperature of a metallic sphere of radius R is increased by a small amount AT. If the linear coefficient of thermal expansion of the metal is a, the approximate increase in the volume of the sphere is:",
+  "options": [
+   "3nR°aAT",
+   "4xR°aAT",
+   "6nR°aAT",
+   "2nR°aAT"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 40,
+  "subject": "Physics",
+  "question": "Sol. For the metallic sphere, a =GAT Volume of the sphere, V = ank Increase in volume = AV = 92) San) = 4nR°aAT A photon and an electron, each of 20 eV energy, move in free space. The ratio of linear momentum of electron Pe to that of photon ppn, Pe. is: Pen [Take speed of light = 3 x 10 ms-', charge of electron = —1.6 x 10-1? C and mass of electron = 9 x 10-%' kg] 1",
+  "options": [
+   "250",
+   "225 2",
+   "275",
+   "7450"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 41,
+  "subject": "Physics",
+  "question": "42. Sol. E, = Ep, = 20 eV Eon => P, = [2m,E,, Py, = 2 c P, V2mEo 2m, 6 Pen Epp, Epp -31 La 29x10 3 x108 Pon, 20x 1.6x107'9 900 = 340% %3x108 = 90 _ 995 4 4 Consider that an electron is revolving in an excited state of Hydrogen atom with velocity /25.6 x10° ms”, The radius of the orbit is x x 10-9 m. The value of x is: [Take the mass of electron to the 9 x 10-*' kg, charge of electron = —-1.6 x 10-19 C and — =9x109 Nm?C?] TEQ",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "4"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 42,
+  "subject": "Physics",
+  "question": "2 mv Sol. F = kqyq2 _ mv 2 r 2 kez in ke? _ 9x109x(1.6x 10-79) =e Oe mk re ae 34 70 r mv 9x10-°'x25.6x10 2.56 x 109 x 10-98 eT 25.6x10 r=1x10°m “xed Two identical inductors are connected in two different configurations P and Q, where a time varying current I(t) is flowing, as shown in the figure. The induced emf between points a and b for configuration P is Ep and that for configuration Q is Eg. The ratio Ep/Ea is: [Neglect the effect of mutual inductance.] Kt) Kt) a (P) (Q) (1) NY wloa (3)",
+  "options": [],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 43,
+  "subject": "Physics",
+  "question": "Sol. In figure (P) Ldl(t) Ep = Eap =-— (1) Kt) . L b L; (P) In figure (Q) Ldl(t) Eeaky =-2o 2 Q al 2 dt (2) Kt a =n L 2 b Ep _2 Eg 1 In an adiabatic expansion, the temperature of one mole of an ideal monatomic gas (7 = 5/3) decreases from 60 K to 50 K. The work done by the gas in the process is: (Take the universal gas constant as R = 8.3 J mol! K-')",
+  "options": [
+   "83J",
+   "124.5 J",
+   "166 J",
+   "41.5J"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 44,
+  "subject": "Physics",
+  "question": "Water flows in a streamline motion through a horizontal pipe of circular cross-section as shown in the figure. The pressure difference of water between P and Q is 15 Nm~2. The area of cross-section at P and Q are 40 cm? and 20 cm?, respectively. The rate of flow of water through the pipe, in cm®s-\", is: [Take density of water = 1000 kg m-*] P a a",
+  "options": [
+   "200",
+   "300",
+   "400",
+   "100"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 45,
+  "subject": "Physics",
+  "question": "Athin horizontal disc is rotating about a vertical axis passing through its fixed centre O. Its angular momentum is La and Lg computed about points A and B, respectively, with OB = 2 x OA. The value of Z is: AB",
+  "options": [
+   ";",
+   "1 1",
+   "2",
+   "4"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 46,
+  "subject": "Chemistry",
+  "question": "47. CHEMISTRY Match the species in List-I with their geometry in List-Il. List-ll Tetrahedral Square Planar Trigonal bipyramidal Dz. [Ni(CN), > IV. | Square pyramidal Choose the correct answer from the options given below:",
+  "options": [
+   "A-lll, B-IV, C-I, D-II",
+   "A-lll, B-l, C-Il, D-IV",
+   "Aclll, B-ll, C-I, D-IV",
+   "A-IV, B-lll, C-I, D-II"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 47,
+  "subject": "Chemistry",
+  "question": "Sol. Hybridizati f tral Compound ybridiza fon central Geometry atom/ion A. PCls sp°d Trigonal bipyramidal B. BrFs sp%d? Square pyramidal Cc. BF; sp? Tetrahedral D. [Ni(CN),]?- dsp? Square planar The amino acid that gives a red-blood colour on treating its sodium fusion extract with sodium nitroprusside is",
+  "options": [
+   "threonine",
+   "methionine",
+   "serine",
+   "leucine"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 48,
+  "subject": "Chemistry",
+  "question": "49. Given below are two statements: Statement-I : Oxidation of p-nitrotoluene with acidic KMnOs gives an acid that is stronger than benzoic acid. Statement-ll : Reduction of p-nitrotoluene with Sn/HCI followed by neutralization gives an amine that is more basic than aniline. In light of the above statements, choose the most appropriate answer from the options given below.",
+  "options": [
+   "Both Statement-I and Statement-Il are incorrect",
+   "Statement-l is correct but Statement-ll is incorrect",
+   "Statement-l is incorrect but Statement-ll is correct",
+   "Both Statement-I and Statement-ll are correct"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 49,
+  "subject": "Chemistry",
+  "question": "COOH Sol. * Oxidation of p-nitrotoluene with acidic KMnOs converts into p-nitrobenzoic acid. because NO, of -I effect and -M effect, making p-nitrobenzoic acid as stronger acid than benzoic acid. * Reduction of p-nitrotoluene with Sn/HCI followed by neutralization reduces the (-NOz) to an amino group (-NHz2), forming p-toluidine. CH, i.e., p-methylaniline is more basic than aniline due to the +1 effect and hyperconjugation. NH, The standard electrode potential (E°) for the half-cell reaction Fe** + e~ + Fe* at 298 K is (Given : E°(Fe**/Fe) = -0.04 V and E°(Fe**/Fe) = -0.44 V at 298 K)",
+  "options": [
+   "+0.76V",
+   "-0.48V",
+   "+0.92 V",
+   "+0.40V"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 50,
+  "subject": "Chemistry",
+  "question": "Sol. ? -0.44V a 2 ee 7 Fe” —» Fe” —»Fe Ce -0.04 V 6 “AG? ° AG 62+ iFe = AG ga: pe TAC Ege ire —nFE® = -nFE° + —-nFE° —3F(-0.04) = -1FE° + 2F(0.44) 3F (0.04) = -Fe° +0.88F 0.12 =-E° + 0.88 0.12 — 0.88 = -E° -0.76 =-E° °=0.76V The compound that CANNOT be obtained from the aldol condensation reaction shown below, is ° HAC, NaOH. + PhCHO ————> H.C ° ° H.C H.C A H,C H,C H.C CH, re) O° H.C ria H.C (3) (4) H.C HC . H.C CH,",
+  "options": [],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 51,
+  "subject": "Chemistry",
+  "question": "52. For a salt XY, which is a strong electrolyte, the plot of A,, versus ve has a slope of -90.0 S cm? mol-*2 L'? at 298 K. At 0.01 M concentration of XY, the value of A,, is 145.0 S cm? mol. The limiting molar conductivity of Y- ion (a9. , in S cm? mol\") at 298 K will be (Given : 2). = 74.0 S cm? mot\")",
+  "options": [
+   "100.0",
+   "90.0",
+   "76.0",
+   "80.0"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 52,
+  "subject": "Chemistry",
+  "question": "=80 S cm? mol Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R. Assertion A: The first ionization enthalpy of O is lower than that of N and F. Reason R: The loss of an electron from O leads to stable half-filled p orbital. In light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both A and R are correct and R is NOT the correct explanation of A",
+   "Ais correct but R is not correct.",
+   "Avis not correct but R is correct",
+   "Both A and R are correct and R is the correct explanation of A"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 53,
+  "subject": "Chemistry",
+  "question": "According to crystal field theory, the correct order of ligands with respect to their decreasing order of field strength is",
+  "options": [
+   "CO>H20 > NH3 > Cr",
+   "Chr >H20 > NH3 > CO",
+   "Chr >NHs >H20 >CO",
+   "CO>NHs > H20 > Cr"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 54,
+  "subject": "Chemistry",
+  "question": "Given below are two statements: Statement-l : [Fe(ox)s]* is chiral. Statement-ll : trans — [Cr(H2O)2(ox)2}- is chiral. (Given : oxH2 = HOOC — COOH) In light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both Statement-l and Statement-lIl are incorrect",
+   "Statement-l is correct but Statement-ll is incorrect",
+   "Statement-l is incorrect but Statement-ll is correct",
+   "Both Statement-l and Statement-ll are correct"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 55,
+  "subject": "Chemistry",
+  "question": "For the following reaction sequence, choose the correct option i. CH,COCIAIC eee CO ii. NaOCl",
+  "options": [
+   "P and Q are aromatic compounds",
+   "If P gives a carboxylic acid on acidification, Q gives a poisonous gas on exposure to air and light",
+   "Both P and Q are carbonyl compounds",
+   "If P is the sodium salt of a carboxylic acid, Q is a primary alcohol"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 56,
+  "subject": "Chemistry",
+  "question": "For an elementary chemical reaction, the Arrhenius plot is given below. 8 6 —> Ink > — 1/T If the energy of activation is 6.64 kJ mol-' and R = 8.3 J K\"' mol\", the temperature at which the rate constant becomes e? min\", is",
+  "options": [
+   "150K",
+   "200K",
+   "250K",
+   "125K"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 57,
+  "subject": "Chemistry",
+  "question": "58. E. Sol. Ink = InA- — ol. Ink = InA — 2 3 =] in(e?) - 6 - 284210 = 8.3 JK ' mol! xT 3 2-6 9:84%10 8.3xT 6.64 x 10° T =———— = 200K 8.3x4 Arrange the following compounds in the increasing order of polarity A. CHsCH20CH2CHs B. CHsCH20H C. CHsCOCH3 D. CHsCOOH Choose the correct answer from the options given below.",
+  "options": [
+   "C<A<D<B",
+   "C<A<B<D",
+   "A<C<B<D",
+   "A<B<C<D"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 58,
+  "subject": "Chemistry",
+  "question": "Sol. On the basis of polarity the correct order is C2HsOC2Hs < CHsCOCHs < CHsCH2OH < CHsCOOH So correct order is A<C<B<D A protein undergoes reversible thermal denaturation from its initial state N to denatured state D according to N=—=D. At 60°C, the concentrations of both N and D are equal at equilibrium, and the standard enthalpy change of denaturation is 666 kJ mol-’. The standard entropy change (AS° in kJ K-? mol-’) of the protein upon denaturation at 60°C is closest to",
+  "options": [
+   "2000.0",
+   "333.0",
+   "11.1",
+   "2.0"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 59,
+  "subject": "Chemistry",
+  "question": "60. 61. Consider the following statements about the solutions formed by mixing two liquids. A. An ideal solution thus formed obeys Raoult's law throughout the composition range. B. Mixture of chloroform and acetone shows negative deviation from Raoult’s law. C. Mixture of aniline and phenol shows positive deviation from Raoult’s law.",
+  "options": [
+   "Band C only",
+   "Aonly",
+   "AandC only",
+   "AandB only"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 60,
+  "subject": "Chemistry",
+  "question": "Sol. In the case of phenol and aniline solution, the intermolecular hydrogen bonding between phenolic proton and lone pair on nitrogen atom of aniline is stronger than the respective intermolecular hydrogen bonding between similar molecules. Therefore it shows negative deviation. Given below are two statements : Statement-I : Heating NaC! with concentrated H2SO4 and MnO: results in oxidation of Mn. Statement-Il : Heating Nal with concentrated H2SO4 and MnO> results in reduction of Mn. In light of the above statements, choose the most appropriate answer from the options given below.",
+  "options": [
+   "Both Statement-l and Statement-ll are incorrect",
+   "Statement-l is correct but Statement-ll is incorrect",
+   "Statement-l is incorrect but Statement-ll is correct",
+   "Both Statement-l and Statement-ll are correct"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 61,
+  "subject": "Chemistry",
+  "question": "Sol. Statement-| : (False) 4 2 2NaCl+MnO, + 2H,SO, —» Na,SO, +MnSO, +2H,0 + Cl, So, reduction of Mn is taking place. Statement-Il : (True) +4 42 2Nal + MnO, +2H,SO, — Na,SO, +MnSO, +I, +2H,O So, Mn has undergone reduction. Given below are two statements : Statement | : trans-But-2-ene upon treatment with Br2 in CCl gives the following product. Br Br Statement II : cis-But-2-ene upon treatment with alkaline KMnOs gives the following product. OH Me In the light of the above statements, choose the most appropriate answer from the options given below.",
+  "options": [
+   "Both Statement I and Statement Il are incorrect",
+   "Statement| is correct but Statement Il is incorrect",
+   "Statement| is incorrect but Statement Il is correct",
+   "Both Statement | and Statement Il are correct"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 62,
+  "subject": "Chemistry",
+  "question": "The highest occupied molecular orbital for Nez is",
+  "options": [
+   "op",
+   "tay",
+   "o%",
+   "tap"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 63,
+  "subject": "Chemistry",
+  "question": "65. Sol. Ne, : ots? <a\" 1s? < 02s” <a’ 28” <a2p? <(n2p2 =n2p3) <x 2p = x 2py <a\" 2p? o 2p, ie. o’ 2p is highest occupied orbital. The following carbocation is stabilized by the interaction of the empty p orbital with & ‘CH,",
+  "options": [
+   "empty o and empty x* orbitals",
+   "empty o* and filled x orbitals",
+   "empty o* and empty x* orbitals",
+   "filled o and filled x orbitals"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 64,
+  "subject": "Chemistry",
+  "question": "Sol. Due to resonance it is stabilised by filled x orbital. Due to hyperconjugation, it is stabilised by filled o orbitals. The green paramagnetic species formed by heating KMnOsg at 513 K is",
+  "options": [
+   "Mns04",
+   "MnO",
+   "KOz",
+   "KeMnO«"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 65,
+  "subject": "Chemistry",
+  "question": "Sol. 2KMnO« — K2MnO« + MnOz + O2 K2MnOs will form on heating KMnOs which has green colour. The correct statement is",
+  "options": [
+   "Beryllium has three valence orbitals.",
+   "Magnesium has a maximum covalency of four.",
+   "Aluminium has five valence orbitals.",
+   "Boron has a maximum covalency of four."
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 66,
+  "subject": "Chemistry",
+  "question": "67. 68. The correct statement about peptides and proteins is",
+  "options": [
+   "Only the proteins having a quaternary structure are biologically active",
+   "In B-pleated sheet structures, peptide chains are held together by intermolecular hydrogen bonds",
+   "In a-helices, the polypeptide chain is twisted into a left-handed screw (helix) through intramolecular hydrogen bonds",
+   "Tertiary structure of proteins has two or more polypeptide subunits"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 67,
+  "subject": "Chemistry",
+  "question": "Sol. In B-pleated sheet structure, peptide chains are held together by intermolecular hydrogen bonds. This is only correct statement. Remaining (1), (3) and (4) are incorrect statements. 2A—*>B is a zero-order reaction, where k = 1.0 mol L\" min”. If the initial concentration of A is 2 M, then the time taken to complete 75% of the reaction will be",
+  "options": [
+   "0.75 min",
+   "1.0 min",
+   "2.0 min",
+   "1.5 min"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 68,
+  "subject": "Chemistry",
+  "question": "Sol. For zero order reaction t= 2295 075 nin Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Generally, 3d transition metals have high melting points. Reason R: Involvement of 3d-electrons in addition to 4s-electrons in the interatomic metallic bonding. In light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both A and R are correct and R is NOT the correct explanation of A",
+   "Ais correct but R is not correct.",
+   "Avis not correct but R is correct",
+   "Both A and R are correct and R is the correct explanation of A"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 69,
+  "subject": "Chemistry",
+  "question": "— Consider the following schematic plots of orbital wavefunction (w,) against distance (r) from the nucleus. 0 [> fa] ‘> The figure representing two radial nodes in the orbital is",
+  "options": [
+   "B",
+   "Cc",
+   "D",
+   "A"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 70,
+  "subject": "Chemistry",
+  "question": "— Identify the reactions which give aniline as the major product. CN Cr LiAIH, A. ————-9. 71. } = 4 CH D. C Y 3 me 0 Choose the correct answer from the options given below.",
+  "options": [
+   "Band D only",
+   "AandC only",
+   "Cand D only",
+   "AandB only"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 71,
+  "subject": "Chemistry",
+  "question": "CN CH,— NH, LiAIH, Sol. Cr > ° ll oe KOH, Br, co ———_— > H or” HCI, H,0 co” A il ° Among the species given below, the spin-only magnetic moment is highest for (Given: Atomic number of Ti = 22, Mn = 25, Fe = 26 and Co = 27)",
+  "options": [
+   "[Fe(CN).]*",
+   "[Co(NHs)s}°*",
+   "[TW(H,0),}°*",
+   "[Mn(CN)_]"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 72,
+  "subject": "Chemistry",
+  "question": "73. 74. ed] | (1) 70) «., Number of unpaired electron = 1 The complex which has facial and meridional isomers is (Given : py = pyridine and en = H2N — CH2 — CH2 — NH2)",
+  "options": [
+   "[Cr(H2O)e]>*",
+   "[Co(NHs)s(H20)2}**",
+   "[Ni(en)2(H20)2]**",
+   "[Cr(py)s(Cl)3]"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 73,
+  "subject": "Chemistry",
+  "question": "Sol. The complex with type [Masbs] type of complexes show fac and mer type of isomers. [Cr(py)s(Cl)s] shows fac and mer isomers. A 1:3 electrolyte in an aqueous solution is",
+  "options": [
+   "[CoCl(NHs)s]Cl2",
+   "[Co(NHs).]Cls",
+   "[Co(NHs)s(NO2)3]",
+   "[CoCl2(NHs),]Cl"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 74,
+  "subject": "Chemistry",
+  "question": "Sol. The aqueous solution of [Co(NHs)s]Cls is a type of 1 : 3 type electrolyte as it undergoes dissociation into [Co(NHs)e]** and 3CI ions. Consider the reversible processes for 1.0 mol of an ideal gas as shown in the figure. Pressure ————> Pa, Va, To Ps, Vs, T2 Processes 2 and 4 are adiabatic W1, W2, W3 and w¢ represent work done (in calories) in the processes 1, 2, 3 and 4, respectively; AUz2 and AU, are changes in the internal energy for the processes 2 and 4, respectively. [use R = 2 cal K7 mot\"] The correct option is",
+  "options": [
+   "w,+w, =AU, — AU,",
+   "w, tw, = 2T in 1 Vv, Vs",
+   "w,+W,+W,+W, =0",
+   "w,+wy =-2T in —2Tin 1 3"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 75,
+  "subject": "Chemistry",
+  "question": "Sol. wi — isothermal reversible process wi = —nRT, inve vy Ww, = AKRxT INV 1 Ww, = -nxRxT,Inve V; Ws = -AKRxT, Inv 3 w, +W, =—NRT,In Ne —nRT, In Me V, Vs W, +W, =-2T, In Ye) -2h i 1 3 In an acidic medium, 10 mL of 0.25 M oxalic acid is titrated with KMnOs solution. If the volume of KMnO« solution required to reach end point is 10 mL, the strength of the KMnOg solution is",
+  "options": [
+   "0.20M",
+   "0.25M",
+   "0.15M",
+   "0.10 M"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 76,
+  "subject": "Chemistry",
+  "question": "5G A 78. 79. The lanthanide ion having four unpaired electrons is (Given : Atomic numbers of Ce = 58, Nd = 60, Tb = 65 and Ho = 67)",
+  "options": [
+   "Ce*",
+   "Tb**",
+   "Ho%*",
+   "Nd?"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 77,
+  "subject": "Chemistry",
+  "question": "Sol. The outermost electronic configuration is Ho® aro] a] a] 111 [ 1] 4] 4 unpaired electrons Nd** 4 3 unpaired electrons Ce* 4f' 1 unpaired electron To 40/4114 [4141114 | 6 unpaired electrons The correct decreasing order of oxidation state of the underlined atom in each molecule is",
+  "options": [
+   "N2Os > AlkOs > H2S",
+   "PbO2>N203 > SOs",
+   "PsOs > Cl2O7 > AIHs",
+   "PsO10 >SO3 > H20"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 78,
+  "subject": "Chemistry",
+  "question": "3 +7 8 Sol. P,O,, Cl,O,, AIH, 45 +6 =2 P, Oro, SO,, H, O +5 +3 — N,O,, AlO,, H,S +4 43 +6 Pb,, N,O,, SO, The formula of tetraammineaquachloridocobalt(II!) chloride is",
+  "options": [
+   "[Co(NHs)sJCls x H20",
+   "[Co(NHs)«(H20)CIJCI",
+   "[Co(NHs)4(H20)CI]Clz",
+   "[Co(NHs)sCl2] x H2O"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 79,
+  "subject": "Chemistry",
+  "question": "Sol. Tetraammineaquachloridocobalt(III) chloride is [Co(NHs)4(H20)CIJCl2. Consider the following reaction, and choose the correct option. H, CH, i. CrO,Cl,, CS, ae P ii, H,O*",
+  "options": [
+   "Compound P can be prepared by treating benzene with anhydrous AlCls and CHsCOCI",
+   "On treatment with bromine water, compound P gives a white precipitate",
+   "Compound P is obtained by the hydrogenation of benzoyl chloride with Pd on BaSOz",
+   "On treating compound P with saturated NaHCO; solution, brisk effervescence is observed"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 80,
+  "subject": "Chemistry",
+  "question": "81. CH, CH(OCrOHCI,), Sol CrO,Cl,, CS, fe —___——__» | Ho\" CHO coc CHO H, Compound P is obtained by aT Rosenmund reaction COCH, CH,COCI, Anhy ——_—_—_—_—_—___» AICI, Assertion A: For an ideal solution formed by mixing liquids P and Q, Amx H = 0 and Amx V = 0 Reason R: No interactions occur between P and Q In the light of the above statements, choose the most appropriate answer from the options given below.",
+  "options": [
+   "Both A and R are correct but R is NOT the correct explanation of A",
+   "Ais correct but R is not correct",
+   "Ais not correct but R is correct",
+   "Both A and R are correct and R is the correct explanation of A"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 81,
+  "subject": "Chemistry",
+  "question": "Sol. For ideal solution, Amix H = 0 and Amix V = 0 In ideal solution energy required to break interaction between P-P and Q-Q will be same as the energy released on the interaction of P-Q. Match the vitamins in List | with their sources in List Il List| List Il A. vitamin A meat B. vitamin Biz sunflower oil D. vitamin K IV. | carrots Choose the correct answer from the options given below.",
+  "options": [
+   "A-IV, B-l, C-Il, D-II",
+   "A-IV, B-ll, C-1, D-III",
+   "A-lll, B-l, C-IV, D-II",
+   "A-ll, B-Ill, C-IV, D-I"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 82,
+  "subject": "Chemistry",
+  "question": "83. Sol. Vitamin Sources A. Vitamin A Carrot B. | Vitamin Biz Meat | Cc. Vitamin E Sunflower oil | D. Vitamin K Green leafy vegetables | Among the following, the compound having conjugated double bonds is",
+  "options": [
+   "hepta-1,4-diene",
+   "hepta-1,5-diene",
+   "hepta-1,6-diene",
+   "hepta-1,3-diene"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 83,
+  "subject": "Chemistry",
+  "question": "7 6 5 4 3 2 1 Sol. hepta-1,6-diene : H,C = CH- CH,—CH,—CH,—CH = CH, 7 6 5 4 3 2 1 hepta-1,3-diene : CH,~CH,—CH,—CH = CH-CH = CH, 7 6 5 a 3 2 1 hepta-1,4-diene : CH,-CH-—CH =CH-CH2—-CH=CH, 7 6 5 4 3 2 1 hepta-1,5-diene : CH,-CH = CH -CH2—CHz—CH = CH, An organic compound (diene) with two double bonds separated by one single bond is termed as conjugated diene. One of the products formed in the following reaction is (mae + (» NH, ——> NH, “0 “OO",
+  "options": [],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 84,
+  "subject": "Chemistry",
+  "question": "Two moles of an ideal gas undergo free expansion from 10 L to 100 L at 300 K. The values of ASsystem and ASsurroundings are (R is universal gas constant)",
+  "options": [
+   "ASsystem = 4.606 R; ASsurroundings = — 4.606 R",
+   "ASsystem = 0; ASsurroundings = 4.606 R",
+   "ASsystem = 4.606 R; ASsurroundings = 0",
+   "ASsystem = 0; ASsurroundings = 0"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 85,
+  "subject": "Chemistry",
+  "question": "Sol. During free expansion ASsystem = nine 100 2.303 x 2x R x log—— x2xRxlog 10 = 4.606 R ASsurroundings = 0 as q = 0 Among the following options, the correct trend in the electron gain enthalpy is",
+  "options": [
+   "Br>Cl>F>1",
+   "Cl>F>Br>1",
+   "1>Br>Cl>F",
+   "F>Cl>Br>1"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 86,
+  "subject": "Chemistry",
+  "question": "Sol. Group 17 Elements Electron gain enthalpy (kJ/mol) 328 So, the correct order of electron gain enthalpy is Cl > F > Br >|. The correct order of solubility of the given salts in water at 298 K is Salt Ks, at 298 K AgBr 5.0 x 10-8 Zn(OH)2 1.0 x 10-15 Hg2Cle 1.3 x 10-8",
+  "options": [
+   "AgBr > Zn(OH)2 > Hg2Clz",
+   "Hg2Cle > AgBr > Zn(OH)z2",
+   "Zn(OH)2 > AgBr > Hg2Cle",
+   "Hg2Clz > Zn(OH)2 > AgBr"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 87,
+  "subject": "Chemistry",
+  "question": "Sol. AgBr(s) = Ag*(aq.) + Br-(aq.) Kep = 5 x 10-8 = S? S= ¥5x10 , S= 7.07107 moll Zn(OH)2(s) = Zn**(aq.) + 2OH-(aq.) Ksp = 10-'5 = (S)(2S)? 48° =10°° ,S = 0.63x10° =6.3x10° mol/l Hg2Cle(s) = Hg3*(aq.) + 2CI-(aq.) Ksp = 1.3x10° = 48°, S = 0.69x10° =6.9x10\" mol/l The correct order of solubility is: Zn(OH)2 > AgBr > Hg2Clz Consider the following reaction sequences and choose the correct option. Na/liq. NH. H,, Pd/C & et Ph-c = -Me —>———_> (Lindlar's Catalyst) HBr HBr benzoyl peroxide N M",
+  "options": [
+   "Kand L are enantiomers",
+   "Mand N are geometrical isomers",
+   "Mand N are stereoisomers",
+   "Kand L are geometrical isomers"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 88,
+  "subject": "Chemistry",
+  "question": "89. 90. The amount of carbon dioxide evolved upon complete combustion of 116 g of n-butane is (Given: atomic mass in amu H = 1, C = 12 and O = 16)",
+  "options": [
+   "322g",
+   "176g",
+   "362g",
+   "352g"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 89,
+  "subject": "Chemistry",
+  "question": "Sol. CyHj + Bo, + 4CO, +5H,O *’ 1 mole C4H10 produces 4 mole COz2 *s 58g CaHto = 4x 44g CO2 2.16.9 Gillie oe x116 = 352g The numbers 17.0145 and 21.0235 were rounded to three figures after the decimal point. The resulting numbers, respectively, are",
+  "options": [
+   "17.015 and 21.023",
+   "17.014 and 21.024",
+   "17.015 and 21.024",
+   "17.014 and 21.023"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 90,
+  "subject": "Chemistry",
+  "question": "Sol. If the rightmost digit to be removed is 5, then the preceding number is not changed if it is an even number, but it is increased by one if it is an odd number. In potash alum, the ratio of K* and SOZ ions is",
+  "options": [
+   "2:4",
+   ". 2:3",
+   "3:2",
+   "1:2"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 91,
+  "subject": "Biology",
+  "question": "92. 93. BIOLOGY The number of vertebrae in a human is",
+  "options": [
+   "12",
+   "26",
+   "206",
+   "7"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 92,
+  "subject": "Biology",
+  "question": "Sol. The number of vertebrae in adult human is 26. Which one of the following statements is incorrect?",
+  "options": [
+   "a-cells of pancreas secrete insulin",
+   "Glucagon stimulates glycogenolysis",
+   "-cells of pancreas secrete insulin",
+   "a-cells of pancreas secrete glucagon"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 93,
+  "subject": "Biology",
+  "question": "Sol. The two main types of cells in the Islet of Langerhans are called a-cells and f-cells. The a-cells secrete a hormone called glucagon, while the B-cells secrete insulin. Glucagon stimulates glycogenolysis while insulin stimulates glycogenesis. Given below are two statements: Statement | : The class name Reptilia refers to creeping or crawling mode of locomotion. Statement Il : All organisms belonging to Reptilia have three chambered heart. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both Statement I and Statement Il are incorrect",
+   "Statement| is correct but Statement Il is incorrect",
+   "Statement| is incorrect but Statement Il is correct",
+   "Both Statement I and Statement Il are correct"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 94,
+  "subject": "Biology",
+  "question": "Sol. The class Reptilia refers to their creeping or crawling mode of locomotion. Heart is usually three- chambered, but four-chambered in crocodiles. So, All organisms belonging to class Reptilia does not possess three chambered heart. Which of the following statements related to pituitary gland are correct? (a) It is divided anatomically into adenohypophysis and neurohypophysis (b) It secretes follicle stimulating hormone (c) It secretes melanocyte stimulating hormone (d) It does not secrete prolactin Choose the correct answer from the options given below :",
+  "options": [
+   "(a), (b) and (c) only",
+   "(c) and (d) only",
+   "(b) and (c) only",
+   "(a) and (b) only"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 95,
+  "subject": "Biology",
+  "question": "Match List-I with List-ll. a a a fe [mannan [w [eoinerann a Choose the correct answer from the options given below :",
+  "options": [
+   "All, B-I, C-IV, D-II",
+   "All, B-I, C-Ill, D-IV",
+   "A-l, B-ll, C-Ill, D-IV",
+   "A-l, B-ll, C-IV, D-Ill"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 96,
+  "subject": "Biology",
+  "question": "In water, frogs respire using",
+  "options": [
+   "buccal cavity",
+   "lungs",
+   "trachea",
+   "skin"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 97,
+  "subject": "Biology",
+  "question": "Match List-I with List-ll. Co A. | Cristae Flat membrane sacs in stroma of chloroplast 8. | Cistemae | Ut | Infoldings in mitochondria Thylakoids | Cell membrane Phospholipid IV. | Disc shaped sacs in the Golgi apparatus 98. 99. Choose the correct answer from the options given below:",
+  "options": [
+   "A-ll, B-IV, C-I, D-II",
+   "A-ll, B-lV, C-IIl, D-I",
+   "A-IV, B-Ill, C-1, D-II",
+   "A-lll, B-lV, C-I, D-II"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 98,
+  "subject": "Biology",
+  "question": "Sol. Following are the correct matches: [A |oristae | | Infoldings in mitochondria Cisternae IV. | Disc shaped sacs in the Golgi apparatus C. | Thylakoids Flat membrane sacs in stroma of chloroplast [o. | Phospholipid i Cell membrane Phyllotaxy is the pattern of arrangement of",
+  "options": [
+   "flowers",
+   "fruits",
+   "sepals",
+   "leaves"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 99,
+  "subject": "Biology",
+  "question": "Sol. Phyllotaxy is the pattern of arrangement of leaves on the stem. Match List-I with List-ll. || List-1 | List-lI Pfam [ fm J a [= [oem [so Choose the correct answer from the options given below :",
+  "options": [
+   "A-lll, B-Il, C-l, D-IV",
+   "A-ll, B-l, C-IV, D-II",
+   "A-ll, B-IV, C-1, D-II",
+   "A-l, B-lIll, C-Il, D-IV"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 100,
+  "subject": "Biology",
+  "question": "101. 102. Sol. Bacteria are grouped under four categories based on their shape : Spherical + Coccus Rod-shaped -> Bacillus Comma-shaped — Vibrium Spiral > Spirillum Arrange the following elements in descending order of their contribution to percentage weight of the human body. (a) Oxygen (b) Carbon (c) Hydrogen (d) Nitrogen Choose the correct answer from the options given below :",
+  "options": [
+   "(c), (a), (b), (d)",
+   "(b), (c), (d), (a)",
+   "(b), (a), (c), (d)",
+   "(a), (b), (c), (d)"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 101,
+  "subject": "Biology",
+  "question": "Sol. The arrangement of elements in descending order of their contribution to percentage weight of the human body is Oxygen (65%) —» Carbon (18.5%) — Hydrogen (9.5%) —» Nitrogen (3.3%) Length of the stem at time 0 is 20 cm. The arithmetic growth rate is 30 cm per day. What is the length of the stem at the end of the 7\" day?",
+  "options": [
+   "170cm",
+   "230cm",
+   "460 cm",
+   "50cm"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 102,
+  "subject": "Biology",
+  "question": "Sol. Arithmetic growth can be expressed as : L=Ly#rt [where, L, = length at time ‘t’, L, = Length at time ‘zero’, r = growth rate] both day = 20+ 307 => 20+210 = 230cm The length of the stem at the end of 7\" day is 230 cm. Given below are two statements: Statement I: In gymnosperms, the male and female gametophytes remain within the sporangia. Statement II: In gymnosperms, seeds are not covered. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both Statement | and Statement Il are incorrect",
+   "Statement | is correct but Statement Il is incorrect",
+   "Statement | is incorrect but Statement II is correct",
+   "Both Statement I and Statement Il are correct"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 103,
+  "subject": "Biology",
+  "question": "104. 105. 106. Sol. In gymnosperm, the male and female gametophytes do not have an independent free-living existence. They remain within sporangia, retained on the sporophyte. In gymnosperms the ovules are not enclosed by any ovary wall and remain exposed, both before and after fertilisation. The seeds that develop post fertilisation, are not covered, i.e., naked. Smooth endoplasmic reticulum",
+  "options": [
+   "is the major site for the synthesis of lipids",
+   "is actively involved in protein synthesis",
+   "is a site for the synthesis of carbohydrates",
+   "has ribosomes attached to its surface"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 104,
+  "subject": "Biology",
+  "question": "Sol. The Smooth Endoplasmic Reticulum (SER) is responsible for synthesis of lipids as well as steroidal hormones. It is not associated with ribosomes and hence appears smooth. Rough endoplasmic reticulum is actively involved in protein synthesis. Carbohydrate synthesis occurs in chloroplasts. Which of the following is not a characteristic of chordates?",
+  "options": [
+   "Central nervous system is dorsal",
+   "Absence of gills",
+   "Presence of post anal part (tail)",
+   "Presence of notochord"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 105,
+  "subject": "Biology",
+  "question": "Sol. The members of phylum Chordata shows following features at any stage of life. (1) Presence of notochord (2) Pharynx perforated by gill slits (3) Dorsal, hollow and single central nervous system (4) Ventral heart (5) A post-anal tail Gill slits are absent in non-chordates. How many molecules of pyruvic acid are produced at the end of glycolysis from 206 molecules of glucose?",
+  "options": [
+   "309",
+   "103",
+   "412",
+   "206"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 106,
+  "subject": "Biology",
+  "question": "Sol. Two molecules of pyruvic acid are formed at the end of glycolysis from one molecule of glucose. From 206 molecules of glucose, 412 molecules of pyruvic acid are formed. The correct sequence of adult cell cycle phases is 5",
+  "options": [
+   "G1-M-G2-S",
+   "G1-S-G2-M",
+   "S-M-G2-G1",
+   "G1-G2-S-M"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 107,
+  "subject": "Biology",
+  "question": "108. 109. Sol. Gap1 phase is the first phase of interphase. After Gap1 phase, synthesis phase starts in which DNA replicates, then Gap2 phase occur and finally cell cycle ends with M phase (mitosis). M Phase Which of the following represents the correct sequence of arrangement of bones in the lower limb of humans?",
+  "options": [
+   "Patella-femur-tibia-tarsal",
+   "Femur-patella-tibia-tarsal",
+   "Femur-tarsal-patella-tibia",
+   "Femur-tibia-patella-tarsal"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 108,
+  "subject": "Biology",
+  "question": "Sol. Each hindlimb consists of 30 bones. e The bones of the lower limb is femur (thigh bone), A cup shaped bone called patella cover the knee ventrally (knee cap), tibia and fibula, tarsals (ankle bones), metatarsals and phalanges. e — So, the correct sequence of arrangement of bones in the lower limb of humans will be Femur - patella - tibia -tarsal. Cell theory was formulated by",
+  "options": [
+   "Robert Brown",
+   "Singer and Nicolson",
+   "Antonie Von Leeuwenhoek",
+   "Schleiden and Schwann"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 109,
+  "subject": "Biology",
+  "question": "Sol. Cell theory was formulated by Schleiden and Schwann. Given below are two statements : Statement | : Chromosomes are fully condensed at the end of prophase I. Statement II : Meiosis | resembles mitosis. In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are false",
+   "Statement | is correct, but Statement Ill is false",
+   "Statement| is incorrect, but Statement II is true",
+   "Both Statement I and Statement Il are true"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 110,
+  "subject": "Biology",
+  "question": "111. Sol. The final stage of meiotic prophase-l is diakinesis. So, at the end of prophase-| the chromosomes are fully condensed and the meiotic spindle is assembled to prepare the homologous chromosomes for separation. So, Statement | is correct. Meiosis II resembles mitosis as it is an equational division. Which of the following statements regarding photorespiration are correct? (a) Do not occur in C3 plants (b) CO2is consumed and O2 is generated (c) Phosphoglycolate is formed (d) No synthesis of ATP and NADPH Choose the correct answer from the options given below:",
+  "options": [
+   "(c) and (d) only",
+   "(b) and (d) only",
+   "(a) and (b) only",
+   "(a) and (d) only"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 111,
+  "subject": "Biology",
+  "question": "Sol. e Photorespiration can occur in C3 plants. e In photorespiration, O2 is consumed and CO: is released. e Phosphoglycolate is formed as the initial product. e There is no synthesis of ATP and NADPH in photorespiration. Which of the following are characteristics of prokaryotic cells? (a) Ribosomes are made of 50S and 30S subunits (b) They can have plasmids (c) They contain mesosome (d) They have peroxisomes Choose the correct answer from the options given below :",
+  "options": [
+   "(a) and (c) only",
+   "(a), (c) and (d) only",
+   "(a), (b) and (c) only",
+   "(b) and (c) only"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 112,
+  "subject": "Biology",
+  "question": "113. 114. 115. The number of action potentials generated by sino-atrial node (SAN) in a healthy human is per minute.",
+  "options": [
+   "70-75",
+   "100-110",
+   "120-140",
+   "28-30"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 113,
+  "subject": "Biology",
+  "question": "Sol. The number of action potentials generated by sino-atrial node (SAN) in a healthy human is 70 — 75 per minute. Endomembrane system includes",
+  "options": [
+   "endoplasmic reticulum, chloroplast, peroxisomes and vacuole",
+   "mitochondria, chloroplast, peroxisomes and vacuole",
+   "Golgi complex, chloroplast, peroxisomes and vacuole",
+   "endoplasmic reticulum, Golgi complex, lysosomes and vacuole"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 114,
+  "subject": "Biology",
+  "question": "Sol. Endomembrane system includes organelles whose functions are coordinated. It includes total four organelles, namely Endoplasmic reticulum, Golgi body, vacuole and lysosomes. Match List-I with List-Il. a rm [nas es a [erm |v [main a Choose the correct answer from the options given below :",
+  "options": [
+   "A-ll, B-l, C-Ill, D-IV, E-V",
+   "A-ll, B-IIl, C-V, D-I, E-IV",
+   "A-lll, B-V, C-Il, D-IV, E-I",
+   "A-l, B-V, C-ll, D-IV, E-IIl"
+  ],
+  "correct": null,
+  "answer_note": "3*",
+  "needs_fix": true
+ },
+ {
+  "id": 115,
+  "subject": "Biology",
+  "question": "(Conceptual errata) Sol. Mangifera represents Genus, Anacardiaceae represents family, Sapindales represents order, Dicotyledonae represents class, Phylum Angiospermae [correct should be division] Which of the following plant growth regulators promotes internode elongation prior to flowering in cabbage?",
+  "options": [
+   "Gibberellin",
+   "Indole butyric acid",
+   "Ethephon",
+   "Abscisic acid"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 116,
+  "subject": "Biology",
+  "question": "The plastid that stores xanthophyll is known as",
+  "options": [
+   "chromoplast",
+   "aleuroplast",
+   "amyloplast",
+   "chloroplast"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 117,
+  "subject": "Biology",
+  "question": "Photorespiration reaction catalyzed by RuBisCo is shown below: RuBP + O2 > 3-Phosphoglycerate + X. Identify “X” from the given options:",
+  "options": [
+   "2-Phosphoglycolate",
+   "Oxaloacetate",
+   "Malate",
+   "Phosphoenolpyruvate"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 118,
+  "subject": "Biology",
+  "question": "Match List-l with List-Il. || List-1 || List-ll ea [ie sicenion [un [Tao Pal poeten | W-[ Panos 0. | Free central placentation Choose the correct answer from the options given below :",
+  "options": [
+   "A-IV, B-Il, C-Ill, D-I",
+   "A-IV, B-Ill, C-I, D-II",
+   "A-IV, B-Hl, C-1, D-II",
+   "All, B-IV, C-l, D-Ill"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 119,
+  "subject": "Biology",
+  "question": "Which of the following are characteristic features of Solanaceae family? (a) Flowers are bisexual and actinomorphic (b) Calyx have five sepals and are united (c) Androecium have five stamens and are epipetalous (d) Ovary is inferior 120. 121. 122. 123. Choose the correct answer from the options given below :",
+  "options": [
+   "(d) only",
+   "(a) and (b) only",
+   "(b), (c) and (d) only",
+   "(a), (b) and (c) only"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 120,
+  "subject": "Biology",
+  "question": "Sol. In Solanaceae family, flowers are bisexual and actinomorphic. Calyx include five sepals that are united. Androecium include five stamens and it is epipetalous. Ovary is superior. Which pigment has absorption peak at 700 nm in the photosynthetic reaction centre PS | (P700)?",
+  "options": [
+   "Chlorophyll a",
+   "Xanthophylls",
+   "Carotenoids",
+   "Chlorophyll b"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 121,
+  "subject": "Biology",
+  "question": "Sol. In PSI, the reaction centre chlorophyll a has an absorption peak at 700 nm and hence, is called P_,,. Mitochondrial inner membrane encloses",
+  "options": [
+   "cytosol",
+   "mucus",
+   "aqueous humor",
+   "matrix"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 122,
+  "subject": "Biology",
+  "question": "Sol. Mitochondrial inner membrane encloses matrix. Which of the following statements is incorrect?",
+  "options": [
+   "Blood clot consists of fibrins",
+   "Fibrin is produced from fibrinogen",
+   "Fibrinogen is produced from fibrin",
+   "Blood coagulates in response to an injury"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 123,
+  "subject": "Biology",
+  "question": "Sol. Fibrins are formed by the conversion of inactive fibrinogen in the plasma by the enzyme thrombin. Symbiotic association between fungi and algae are called",
+  "options": [
+   "sponges",
+   "mycorrhiza",
+   "chrysophytes",
+   "lichens"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 124,
+  "subject": "Biology",
+  "question": "Which of the following is not a part of human central neural system?",
+  "options": [
+   "Dura mater",
+   "Pia mater",
+   "Pericardium",
+   "Arachnoid"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 125,
+  "subject": "Biology",
+  "question": "Which of the following plant growth regulators is used as herbicide?",
+  "options": [
+   "Kinetin",
+   "Abscisic acid",
+   "Gibberellin",
+   "2,4-D"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 126,
+  "subject": "Biology",
+  "question": "How many turns of Calvin cycle are required for the formation of three molecules of glucose?",
+  "options": [
+   "3",
+   "1",
+   "18",
+   "6"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 127,
+  "subject": "Biology",
+  "question": "Arrange the following taxonomic categories in ascending order. (a) Genus (b) Class (c) Order (d) Phylum (e) Family (f) Kingdom (g) Species Choose the correct answer from the options given below :",
+  "options": [
+   "(a), (c), (d), (g), (A), (b), (e)",
+   "(g), (c), (d), (b), (e), (a), (f)",
+   "(f), (c), (b), (g), (4), (e), (a)",
+   "(g), (a), (e), (c), (6), (a), (f)"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 128,
+  "subject": "Biology",
+  "question": "In frogs, the number of pairs of cranial nerves arising from the brain are",
+  "options": [
+   "9",
+   "10",
+   "12",
+   "6"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 129,
+  "subject": "Biology",
+  "question": "Select the correct sequence of experiments that led to a gradual understanding of photosynthesis in green plants.",
+  "options": [
+   "Role of air + release of oxygen — production of glucose — absorption spectra of chlorophyll a and b",
+   "Release of oxygen — production of glucose — absorption spectra of chlorophyll a and b — role of air",
+   "Production of glucose — role of air — release of oxygen — absorption spectra of chlorophyll a and b",
+   "Absorption spectra of chlorophyll a and b — production of glucose — release of oxygen — role of air"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 130,
+  "subject": "Biology",
+  "question": "Sphenopsida class belongs to",
+  "options": [
+   "angiosperms",
+   "gymnosperms",
+   "pteridophytes",
+   "bryophytes"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 131,
+  "subject": "Biology",
+  "question": "Match List-l with List-ll. | | List-1 || List-lI A. | Fusion of protoplasms between gametes Ea Fusion of two nuclei i | Plasmogamy C. | Generation of haploid Karyogamy spores Choose the correct answer from the options given below :",
+  "options": [
+   "All, B-I, C-IIl",
+   "A-ill, B-Il, C-I",
+   "A-l, B-Ill, C-Il",
+   "A-ll, B-IIl, C-1"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 132,
+  "subject": "Biology",
+  "question": "133. 134. 135. Sol. Karyogamy involve fusion of two nuclei. Plasmogamy is fusion of protoplasm. Meiosis leads to the production of haploid spores. Which of the following is not a prokaryote?",
+  "options": [
+   "Blue green algae",
+   "Mycoplasma",
+   "Fungi",
+   "Bacteria"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 133,
+  "subject": "Biology",
+  "question": "Sol. The prokaryotic cells are represented by bacteria, blue-green algae, Mycoplasma and PPLO. Fungi are eukaryotic organisms. Given below are two statements : Statement | : When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Statement Il : In phylum Echinodermata, both adults and larvae are radially symmetrical. In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement Il are incorrect",
+   "Statement| is correct but Statement Il is incorrect",
+   "Statement| is incorrect but Statement Il is correct",
+   "Both Statement I and Statement Il are correct"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 134,
+  "subject": "Biology",
+  "question": "Sol. When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. The members of the phylum Echinodermata exhibits radial or bilateral symmetry depending on the stage. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical. Genus represents",
+  "options": [
+   "a population of plants and animals",
+   "a group of closely related species",
+   "a group of closely related families",
+   "an individual plant or animal"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 135,
+  "subject": "Biology",
+  "question": "Sol. Genus comprises a group of related species which has more characters in common in comparison to species of other genera. Mad cow disease is caused by",
+  "options": [
+   "viroids",
+   "Aspergillus sp.",
+   "Mycoplasma sp.",
+   "prions"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 136,
+  "subject": "Biology",
+  "question": "137. 138. The opening between the right atrium and the right ventricle is guarded by",
+  "options": [
+   "tricuspid valve",
+   "semilunar valve",
+   "sino-atrial node",
+   "bicuspid valve"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 137,
+  "subject": "Biology",
+  "question": "Sol. The opening between the right atrium and the right ventricle is guarded by a valve formed of three muscular flaps or cusps, called the tricuspid valve. A bicuspid/mitral valve guards the opening between the left atrium and the left ventricle. The openings of the right and the left ventricles into the pulmonary artery and the aorta, respectively, are provided with the semilunar valves. The inactive form of Bt toxin is converted to the active form in the insect gut",
+  "options": [
+   "due to acidic pH",
+   "by proteases",
+   "by nucleases",
+   "due to alkaline pH"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 138,
+  "subject": "Biology",
+  "question": "Sol. Bt toxin protein exists as inactive protoxins, but once an insect ingests the inactive toxin, it is converted into an active form of toxin due to the alkaline pH of the gut which solubilises the crystals. Match List-I with List-Il. tI A. | Transformation | |. | Restriction enzyme B. | Cloning site [ I. | Transfer DNA to host bacteria C. | Selection | Il. | Replication | D. | or | Iv. | Antibiotic Choose the correct answer from the options given below:",
+  "options": [
+   "A+, B-Il, C-IV, D-Ill",
+   "A-lll, B-IV, C-ll, D-I",
+   "A-IV, B-I, C-IIl, D-II",
+   "A-ll, B-l, C-IV, D-III"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 139,
+  "subject": "Biology",
+  "question": "140. 141. 142. 143. How many theca are present in each lobe of a typical bilobed angiosperm anther?",
+  "options": [
+   "6",
+   "8",
+   "12",
+   "2"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 140,
+  "subject": "Biology",
+  "question": "Sol.A typical anther is bilobed with each lobe having two theca i.e. they are dithecous. Which of the following hormone is not secreted by human placenta?",
+  "options": [
+   "Estrogen",
+   "Progesterone",
+   "LH",
+   "hCG"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 141,
+  "subject": "Biology",
+  "question": "Sol. The placenta acts as a temporary endocrine gland during pregnancy, secreting several vital hormones essential for fetal development and maintenance of pregnancy. Several hormones produced by placenta are human chorionic gonadotropin (hCG), human placental lactogen (hPL), estrogen, progestogens, etc. Luteinizing hormone (LH) is secreted by anterior pituitary. Sperm motility is due to",
+  "options": [
+   "ciliary movement",
+   "amoeboid movement",
+   "muscular movement",
+   "flagellar movement"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 142,
+  "subject": "Biology",
+  "question": "Sol. Sperm travels across the fallopian tube via flagellar movement. Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R. Assertion A : In an experiment, Mendel observed that the F1 progeny plants are all tall and none are dwarf. Reason R : Stem height is a contrasting trait, with tall being dominant and dwarf being recessive. In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both A and R are correct but R is not the correct explanation of A",
+   "Ais correct but R is not correct",
+   "Ais not correct but R is correct",
+   "Both A and R are correct and R is the correct explanation of A"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 143,
+  "subject": "Biology",
+  "question": "Sol. Mendel crossed tall and dwarf plants and observed that all the F; progeny plants are tall. The trait ‘T' or tall is said to be dominant over the other allele ‘t' or ‘dwarf trait. It is thus due to this dominance of one trait over the other that all the F; are tall. During PCR, primers bind to the DNA strands inthe __step.",
+  "options": [
+   "extension",
+   "annealing",
+   "ligation",
+   "denaturation"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 144,
+  "subject": "Biology",
+  "question": "Sol. PCR involves three steps, i.e. denaturation, annealing and extension. During PCR, primers bind to the DNA strands in the annealing step. 144, Which of the following plant produces non-albuminous seeds?",
+  "options": [
+   "Maize",
+   "Barley",
+   "Pea",
+   "Wheat"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 145,
+  "subject": "Biology",
+  "question": "For a person with blood group ‘O’, which of the following is not a possible combination of parents’ blood group genotypes?",
+  "options": [
+   "Father : Ai and Mother : /Ai",
+   "Father : /8i and Mother : /8/",
+   "Father : 4/5 and Mother : /Ai",
+   "Father : Ai and Mother : /5/"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 146,
+  "subject": "Biology",
+  "question": "Which of the following is used as a clot buster?",
+  "options": [
+   "Penicillin",
+   "Cyclosporin A",
+   "Statins",
+   "Streptokinase"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 147,
+  "subject": "Biology",
+  "question": "Arrange the following in descending order of number of species in the Amazonian rain forest. 148. 149. (a) Plants (b) Birds (c) Fishes (d) Invertebrates (e) Mammals Choose the correct answer from the options given below :",
+  "options": [
+   "(d) > (a) > (c) > (b) > (e)",
+   "(e)> (b) > (a) > (c) > (d)",
+   "(b) > (a) > (d) > (c) > (e)",
+   "(c) > (b) > (d) > (e) > (a)"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 148,
+  "subject": "Biology",
+  "question": "Sol. The Amazonian rain forest is home to more than 40,000 species of plants, 3,000 of fishes, 1300 of birds, 427 of mammals, 378 of reptiles and of more than 1,25,000 invertebrates. Hence the correct decreasing order would be (d) > (a) > (c) > (b) > (e) Given below are two statements : Statement | : Plasmids are autonomously replicating DNA. Statement Il : Plasmids are extrachromosomal DNA. In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement | and Statement II are incorrect",
+   "Statement | is correct but Statement Il is incorrect",
+   "Statement| is incorrect but Statement Il is correct",
+   "Both Statement! and Statement Il are correct"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 149,
+  "subject": "Biology",
+  "question": "Sol. Plasmids are used as cloning vectors in genetic engineering. « Plasmids are autonomously replicating circular extra chromosomal DNA. e They have ability to replicate within bacterial cells independent of the control of its chromosomal DNA Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R. Assertion A : Forelimbs of human and bats are homologous. Reason R : Forelimbs of humans and bats have similar anatomical structure. In the light of the above statements, choose the most appropriate answer from the options given below.",
+  "options": [
+   "Both A and R are true, but R is not the correct explanation of A",
+   "Ais true but R is false",
+   "Ais false but R is true",
+   "Both A and R are correct and R is the correct explanation of A"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 150,
+  "subject": "Biology",
+  "question": "151. 152. 153. Which of the following statements about the reabsorption process in Henle's loop are correct? (a) The descending limb of Henle's loop is permeable to water but almost impermeable to electrolytes. (b) Urine gets concentrated in Henle's loop. (c) Reabsorption of Na* and water takes place in Henle's loop. (d) Active or passive transport of electrolytes occurs in the ascending limb of Henle's loop. Choose the correct answer from the options given below:",
+  "options": [
+   "(b), (c) and (d) only",
+   "(a), (b) and (c) only",
+   "(a), (b) and (d) only",
+   "(a) and (b) only"
+  ],
+  "correct": null,
+  "answer_note": "*",
+  "needs_fix": false
+ },
+ {
+  "id": 151,
+  "subject": "Biology",
+  "question": "Sol. None of the given options are correct Which of the following are secondary lymphoid organs? (a) Bone marrow (b) Tonsils (c) Spleen (d) Thymus Choose the correct answer from the options given below:",
+  "options": [
+   "(b) and (c) only",
+   "(b) and (d) only",
+   "(a) and (d) only",
+   "(a) and (b) only"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 152,
+  "subject": "Biology",
+  "question": "Sol. Bone marrow and thymus are primary lymphoid organs while tonsils, spleen are secondary lymphoid organs. Which of the following is the correct order of arrangement of vertebrate column from the head to toe?",
+  "options": [
+   "Sacrum, lumbar vertebra, thoracic vertebra, cervical vertebra",
+   "Cervical vertebra, lumbar vertebra, thoracic vertebra, sacrum",
+   "Cervical vertebra, thoracic vertebra, lumbar vertebra, sacrum",
+   "Cervical vertebra, thoracic vertebra, sacrum, lumbar vertebra"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 153,
+  "subject": "Biology",
+  "question": "Sol. The vertebral column is formed by 26 serially arranged units called vertebrae and is dorsally placed. The vertebral column is differentiated into cervical (7), thoracic (12), lumbar (5), sacral (1-fused) and coccygeal (1-fused) regions starting from the skull. So, the correct sequence will be : Cervical, thoracic, lumbar, sacrum and coccyx. If the diploid chromosome number of typical angiosperm is 36, what would be the chromosome number in its endosperm?",
+  "options": [
+   "36",
+   "54",
+   "72",
+   "18"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 154,
+  "subject": "Biology",
+  "question": "155. 156. 157. Sponges exchange O2 with CO2 by",
+  "options": [
+   "moist cuticle",
+   "tracheal tubes",
+   "gills",
+   "simple diffusion over their entire body surfaces"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 155,
+  "subject": "Biology",
+  "question": "Sol. Mechanisms of breathing vary among different groups of animals depending mainly on their habitats and levels of organisation. Lower invertebrates like sponges, coelenterates, flatworms, etc., exchange Oz with CO2 by simple diffusion over their entire body surfaces. Earthworms use their moist cuticle and insects have a network of tubes (tracheal tubes) to transport atmospheric air within the body. Gills are used by most of the aquatic arthropods and molluscs. Which of the following disease is not sexually transmitted?",
+  "options": [
+   "Tuberculosis",
+   "Gonorrhoea",
+   "Genital warts",
+   "Syphilis"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 156,
+  "subject": "Biology",
+  "question": "Sol. Genital warts, syphilis and gonorrhoea are sexually transmitted diseases. Genital warts is caused by Human papilloma virus. Syphilis is caused by Treponema pallidum. Gonorrhoea is caused by Neisseria gonorrhoeae. Tuberculosis is caused by Mycobacterium tuberculosis. This disease spreads through air. Which of the following in female gametophyte of an angiosperm helps in guiding the pollen tube for fertilizing the eggs?",
+  "options": [
+   "Synergids",
+   "Central cells",
+   "Polar nucleus",
+   "Antipodals"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 157,
+  "subject": "Biology",
+  "question": "Sol. Synergids guide the entry of pollen tube for fertilizing the eggs, in a typical angiospermic embryo sac. Match List-I with List-Il. List-l List-ll (A) Excess growth hormone (1) | Reabsorption of water and electrolytes in kidney (B) Luteinizing hormone (Il) Contraction of uterus during child birth (C) Vasopressin (Ill) Acromegaly (D) Oxytocin (IV) Ovulation Choose the correct answer from the options given below:",
+  "options": [
+   "A-tll, B-IV, C-I, D-II",
+   "A-ll, B-IV, C-I, D-III",
+   "A-IV, B-lIll, C-1, D-II",
+   "A-lll, B-IV, C-II, D-I"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 158,
+  "subject": "Biology",
+  "question": "159. 160. The covering of ovum at ovulation is",
+  "options": [
+   "zona radiata",
+   "zona pellucida",
+   "chorion",
+   "endometrium"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 159,
+  "subject": "Biology",
+  "question": "Sol. The Graafian follicle ruptures to release the secondary oocyte (ovum) from the ovary by the process called ovulation. The secondary oocyte forms a membrane called zona pellucida surrounding it. Endometrium is the innermost layer of uterine wall. Chorion is the outermost extraembryonic membrane that surrounds the embryo. Match List-I with List-Il. List-l List-Il B. One species is harmed and the other is benefited Il. Mutualism Cc. Both species are benefited Hl. | Competition D. One is benefited while the other has no effect IV. | Commensalism Choose the correct answer from the options given below:",
+  "options": [
+   "A-l, B-Il, C-Ill, D-IV",
+   "A-il, B-l, C-IV, D-III",
+   "A-Ill, B-I, C-Il, D-IV",
+   "A-Ill, B-IV, C-ll, D-I"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 160,
+  "subject": "Biology",
+  "question": "Sol. Both species are harmed in competition. One species is harmed and the other is benefited in predation. Both species are benefited in mutualism. One species is benefited while the other has no effect in commensalism. Which of the following structure is not a part of the male reproductive system?",
+  "options": [
+   "Epididymis",
+   "Vasa efferentia",
+   "Infundibulum",
+   "Rete testis"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 161,
+  "subject": "Biology",
+  "question": "162. 163. 164. Which of the following are primary consumers in a food chain?",
+  "options": [
+   "Predators",
+   "Herbivores",
+   "Carnivores",
+   "Parasites"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 162,
+  "subject": "Biology",
+  "question": "Sol. Primary consumers in a food chain are the herbivores. Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R. Assertion A : Abingdon tortoise in Galapagos islands became extinct within a decade after goats were introduced. Reason R : Goats were more efficient at browsing than Abingdon tortoise. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both A and R are correct but R is not the correct explanation of A",
+   "Ais correct but R is not correct",
+   "Ais not correct but R is correct",
+   "Both A and R are correct and R is the correct explanation of A"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 163,
+  "subject": "Biology",
+  "question": "Sol. Abingdon tortoise in Galapagos islands became extinct within a decade after goats were introduced on the island, apparently due to the greater browsing efficiency of the goats. Which of the following statements about /ac-operon is correct?",
+  "options": [
+   "Lactose activates repressor to bind to the operator",
+   "Genes i, z, yand a share single common promoter",
+   "Galactose can act as an inducer of lac operon",
+   "Gene jis constitutively expressed"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 164,
+  "subject": "Biology",
+  "question": "Sol. Galactose cannot act as an inducer of Jac operon. Gene j is constitutively expressed in /ac operon. Repressor binds to the operator when the lactose is not available. Genes z, y and a are structural genes and have a different promoter than that of the / gene. Which of the following statements is correct about Plasmodium?",
+  "options": [
+   "Reproduces sexually in RBCs",
+   "Gametocytes develop in mosquito gut",
+   "Fertilization takes place in mosquito gut",
+   "Reproduces sexually in liver cells"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 165,
+  "subject": "Biology",
+  "question": "166. 167. 168. A population of diploid organisms is at Hardy-Weinberg equilibrium. If the frequency of allele A is 0.1, the frequency of AA is",
+  "options": [
+   "0.02",
+   "0.10",
+   "0.99",
+   "0.01"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 166,
+  "subject": "Biology",
+  "question": "Sol. The frequency of allele A(p) = 0.1 As per the Hardy—Weinberg equilibrium, Frequency of AA = p2 = (0.1)? = 0.01 Adaptive radiation in placental mammals and Australian Marsupials leading to similarity between distant species is an example of",
+  "options": [
+   "convergent evolution",
+   "founder effect",
+   "genetic drift",
+   "divergent evolution"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 167,
+  "subject": "Biology",
+  "question": "Sol. When more than one adaptive radiation appeared to have occurred in an isolated geographical area (representing different habitats), one can call this convergent evolution. Placental mammals in Australia also exhibit adaptive radiation in evolving into varieties of such placental mammals each of which appears to be ‘similar’ to a corresponding marsupial. Colostrum, secreted by mother during initial days of lactation, is abundant in",
+  "options": [
+   "IgM",
+   "IgA",
+   "IgD",
+   "IgG"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 168,
+  "subject": "Biology",
+  "question": "Sol. Colostrum, secreted by the mother during the initial days of lactation, is abundant in IgA antibody. IgG antibody passes through the placenta and provides natural passive immunity. Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R. Assertion A : In recombinant DNA technology, lysozyme is used for disrupting bacterial cells while cellulase is for plant cells. Reason R: Isolation of genetic material needs disruption of cells. In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both A and R are correct but R is not the correct explanation of A",
+   "Ais correct but R is not correct",
+   "Avis not correct but R is correct",
+   "Both A and R are correct and R is the correct explanation of A"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 169,
+  "subject": "Biology",
+  "question": "170. 171. Given below are two statements: Statement | : Ovulation is caused by LH surge leading to rupture of Graafian follicles. Statement Il : Graafian follicle remaining after ovulation transform into corpus luteum and secretes large amount of estrogen. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both Statement | and Statement Il are incorrect",
+   "Statement | is correct but Statement Il is incorrect",
+   "Statement| is incorrect but Statement Il is correct",
+   "Both Statement I and Statement Il are correct"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 170,
+  "subject": "Biology",
+  "question": "Sol. Rapid secretion of LH leading to its maximum level during the mid-cycle called LH surge induces rupture of Graafian follicle and thereby the release of ovum (ovulation). The remaining parts of the Graafian follicle transform as the corpus luteum, which secretes large amounts of progesterone. Natural selection can lead to (a) stabilisation (b) genetic drift (c) directional change (d) disruption Choose the correct answer from the options given below :",
+  "options": [
+   "(a), (c) and (d) only",
+   "(a), (b), (c) and (d)",
+   "(a) and (c) only",
+   "(a) only"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 171,
+  "subject": "Biology",
+  "question": "Sol. Natural selection can lead to stabilization, directional change or disruption. Natural selection is a process in which heritable variations enabling better survival enabled to reproduce and leave greater number of progeny. A critical analysis makes us believe that variation due to mutation or recombination during gametogenesis, or due to gene flow or genetic drift results in changed frequency of genes and alleles in future generation. The method of directly of injecting a sperm into ovum in assisted reproductive technology is called :",
+  "options": [
+   "Zygote intra fallopian transfer (ZIFT)",
+   "Intra cytoplasmic sperm injection (ICSI)",
+   "Embryo transfer (ET)",
+   "Gamete intra fallopian transfer (GIFT)"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 172,
+  "subject": "Biology",
+  "question": "Which of the following is used as an effective sedative and painkiller for treating post-surgery patients?",
+  "options": [
+   "Antibiotics",
+   "Morphine",
+   "Anti-retroviral drugs",
+   "Interferon"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 173,
+  "subject": "Biology",
+  "question": "Given below are two statements : Statement | : Down's syndrome is caused by the absence of one of the X-chromosomes. Statement Il : Turner's syndrome is caused by the presence of an additional copy of the chromosomes. In the light of the above statements, choose the correct answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are incorrect",
+   "Statement | is correct but Statement Il is incorrect",
+   "Statement| is incorrect but Statement Il is correct",
+   "Both Statement I and Statement II are correct"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 174,
+  "subject": "Biology",
+  "question": "Which of the following is not evidence for evolution?",
+  "options": [
+   "Paleontological evidence from fossil records",
+   "Embryological support for evolution as proposed by Ernst Heckel",
+   "Divergent evolution of anatomical structures such as forelimbs",
+   "Convergent evolution of traits like wings of birds and butterflies"
+  ],
+  "correct": null,
+  "answer_note": "2/4*",
+  "needs_fix": false
+ },
+ {
+  "id": 175,
+  "subject": "Biology",
+  "question": "176. 177. Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R. Assertion A : The logistic growth model of populations is considered more realistic than the exponential growth model. Reason R : Resources are finite. In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both A and R are correct but R is not the correct explanation of A",
+   "Ais correct but R is not correct",
+   "Ais not correct but R is correct",
+   "Both A and R are correct and R is the correct explanation of A"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 176,
+  "subject": "Biology",
+  "question": "Sol. The logistic growth model of populations is considered more realistic than the exponential growth model because resources are limited/finite in nature. Given below are two statements : Statement | : Modern Homo sapiens arose in Australia and moved across continents. Statement Il : Homo sapiens arose around 75000 to 10000 years ago. In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement | and Statement Il are incorrect",
+   "Statement | is correct but Statement II is incorrect",
+   "Statement| is incorrect but Statement Il is correct",
+   "Both Statement I and Statement Il are correct"
+  ],
+  "correct": 2,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 177,
+  "subject": "Biology",
+  "question": "Sol. Homo sapiens arose in Africa and moved across continents and developed into distinct races. During ice age, between 75,000 — 10,000 years ago, modern Homo sapiens arose. Consider a population of 10 million cells. Given the per-capita birth rate of 0.002 (per unit time) and the per- capita death rate of 0.002 (per unit time), the expected number of cells after 10 generations is",
+  "options": [
+   "5 million",
+   "10 million",
+   "100 million",
+   "1 million"
+  ],
+  "correct": 1,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 178,
+  "subject": "Biology",
+  "question": "179. 180. Which of the following statements are Correct ? (a) Energy flow from producers to consumers is unidirectional (b) Energy pyramid can never be inverted (c) Transfer of energy follows the 1% law Choose the correct answer from the options given below :",
+  "options": [
+   "(a) and (b) only",
+   "(a) and (c) only",
+   "(b) and (c) only",
+   "(a), (b) and (c)"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": false
+ },
+ {
+  "id": 179,
+  "subject": "Biology",
+  "question": "Sol. Energy flow is unidirectional. First plants capture solar energy and then, food is transferred from the producers to decomposers. Pyramid of energy is always upright. It can never be inverted, because when energy flows from a particular trophic level to the next trophic level, some energy is always lost as heat at each step. The transfer of energy follows 10 per cent law — only 10 per cent of the energy is transferred to each trophic level from the lower trophic level. Muscle contraction is initiated by a signal sent by the central nervous system by the release of",
+  "options": [
+   "acetyl coenzyme A",
+   "cyclic guanine monophosphate",
+   "cyclic adenine monophosphate",
+   "acetyl choline"
+  ],
+  "correct": 3,
+  "answer_note": null,
+  "needs_fix": true
+ },
+ {
+  "id": 180,
+  "subject": "Biology",
+  "question": "Sol. Muscle contraction is initiated by a signal sent by the central nervous system (CNS) via a motor neuron. The junction between a motor neuron and the sarcolemma of the muscle fibre is called the neuromuscular junction or motor-end plate. A neural signal reaching this junction releases a neurotransmitter (Acetylcholine) which generates an action potential in the sarcolemma. Which of the following enzymes synthesizes precursor mRNA?",
+  "options": [
+   "RNA polymerase II",
+   "RNA polymerase III",
+   "DNA polymerase",
+   "RNA polymerase |"
+  ],
+  "correct": 0,
+  "answer_note": null,
+  "needs_fix": true
+ }
+]

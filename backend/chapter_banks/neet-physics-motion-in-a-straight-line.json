@@ -1,0 +1,839 @@
+{
+  "key": "neet-physics-motion-in-a-straight-line",
+  "exam": "NEET",
+  "subject": "physics",
+  "cls": "11",
+  "chapter_no": 2,
+  "chapter": "Motion in a Straight Line",
+  "source": "NEET 2026",
+  "mode": "image",
+  "sections": [
+    {
+      "topic": "NEET 2026 — Motion in a Straight Line",
+      "questions": [
+        {
+          "question_no": 1,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q1_question.png",
+          "option_images": {
+            "a": "q1_opt_a.png",
+            "b": "q1_opt_b.png",
+            "c": "q1_opt_c.png",
+            "d": "q1_opt_d.png"
+          },
+          "solution_image": "q1_solution.png"
+        },
+        {
+          "question_no": 2,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q2_question.png",
+          "option_images": {
+            "a": "q2_opt_a.png",
+            "b": "q2_opt_b.png",
+            "c": "q2_opt_c.png",
+            "d": "q2_opt_d.png"
+          },
+          "solution_image": "q2_solution.png"
+        },
+        {
+          "question_no": 3,
+          "year": "RE-NEET 2026",
+          "answer": "d",
+          "question_image": "q3_question.png",
+          "option_images": {
+            "a": "q3_opt_a.png",
+            "b": "q3_opt_b.png",
+            "c": "q3_opt_c.png",
+            "d": "q3_opt_d.png"
+          },
+          "solution_image": "q3_solution.png"
+        },
+        {
+          "question_no": 4,
+          "year": "NEET 2025",
+          "answer": "b",
+          "question_image": "q4_question.png",
+          "option_images": {
+            "a": "q4_opt_a.png",
+            "b": "q4_opt_b.png",
+            "c": "q4_opt_c.png",
+            "d": "q4_opt_d.png"
+          },
+          "solution_image": "q4_solution.png"
+        },
+        {
+          "question_no": 5,
+          "year": "NEET 2025",
+          "answer": "d",
+          "question_image": "q5_question.png",
+          "option_images": {
+            "a": "q5_opt_a.png",
+            "b": "q5_opt_b.png",
+            "c": "q5_opt_c.png",
+            "d": "q5_opt_d.png"
+          },
+          "solution_image": "q5_solution.png"
+        },
+        {
+          "question_no": 6,
+          "year": "NEET 2024",
+          "answer": "d",
+          "question_image": "q6_question.png",
+          "option_images": {
+            "a": "q6_opt_a.png",
+            "b": "q6_opt_b.png",
+            "c": "q6_opt_c.png",
+            "d": "q6_opt_d.png"
+          },
+          "solution_image": "q6_solution.png"
+        },
+        {
+          "question_no": 7,
+          "year": "NEET 2024",
+          "answer": "c",
+          "question_image": "q7_question.png",
+          "option_images": {
+            "a": "q7_opt_a.png",
+            "b": "q7_opt_b.png",
+            "c": "q7_opt_c.png",
+            "d": "q7_opt_d.png"
+          },
+          "solution_image": "q7_solution.png",
+          "option_layout": "graph"
+        },
+        {
+          "question_no": 8,
+          "year": "NEET 2023",
+          "answer": "a",
+          "question_image": "q8_question.png",
+          "option_images": {
+            "a": "q8_opt_a.png",
+            "b": "q8_opt_b.png",
+            "c": "q8_opt_c.png",
+            "d": "q8_opt_d.png"
+          },
+          "solution_image": "q8_solution.png"
+        },
+        {
+          "question_no": 9,
+          "year": "NEET 2023",
+          "answer": "b",
+          "question_image": "q9_question.png",
+          "option_images": {
+            "a": "q9_opt_a.png",
+            "b": "q9_opt_b.png",
+            "c": "q9_opt_c.png",
+            "d": "q9_opt_d.png"
+          },
+          "solution_image": "q9_solution.png"
+        },
+        {
+          "question_no": 10,
+          "year": "NEET 2023",
+          "answer": "d",
+          "question_image": "q10_question.png",
+          "option_images": {
+            "a": "q10_opt_a.png",
+            "b": "q10_opt_b.png",
+            "c": "q10_opt_c.png",
+            "d": "q10_opt_d.png"
+          },
+          "solution_image": "q10_solution.png"
+        },
+        {
+          "question_no": 11,
+          "year": "NEET 2023",
+          "answer": "b",
+          "question_image": "q11_question.png",
+          "option_images": {
+            "a": "q11_opt_a.png",
+            "b": "q11_opt_b.png",
+            "c": "q11_opt_c.png",
+            "d": "q11_opt_d.png"
+          },
+          "solution_image": "q11_solution.png"
+        },
+        {
+          "question_no": 12,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q12_question.png",
+          "option_images": {
+            "a": "q12_opt_a.png",
+            "b": "q12_opt_b.png",
+            "c": "q12_opt_c.png",
+            "d": "q12_opt_d.png"
+          },
+          "solution_image": "q12_solution.png"
+        },
+        {
+          "question_no": 13,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q13_question.png",
+          "option_images": {
+            "a": "q13_opt_a.png",
+            "b": "q13_opt_b.png",
+            "c": "q13_opt_c.png",
+            "d": "q13_opt_d.png"
+          },
+          "solution_image": "q13_solution.png"
+        },
+        {
+          "question_no": 14,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q14_question.png",
+          "option_images": {
+            "a": "q14_opt_a.png",
+            "b": "q14_opt_b.png",
+            "c": "q14_opt_c.png",
+            "d": "q14_opt_d.png"
+          },
+          "solution_image": "q14_solution.png",
+          "option_layout": "graph"
+        },
+        {
+          "question_no": 15,
+          "year": "NEET 2021",
+          "answer": "b",
+          "question_image": "q15_question.png",
+          "option_images": {
+            "a": "q15_opt_a.png",
+            "b": "q15_opt_b.png",
+            "c": "q15_opt_c.png",
+            "d": "q15_opt_d.png"
+          },
+          "solution_image": "q15_solution.png"
+        },
+        {
+          "question_no": 16,
+          "year": "NEET 2021",
+          "answer": "d",
+          "question_image": "q16_question.png",
+          "option_images": {
+            "a": "q16_opt_a.png",
+            "b": "q16_opt_b.png",
+            "c": "q16_opt_c.png",
+            "d": "q16_opt_d.png"
+          },
+          "solution_image": "q16_solution.png"
+        },
+        {
+          "question_no": 17,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q17_question.png",
+          "option_images": {
+            "a": "q17_opt_a.png",
+            "b": "q17_opt_b.png",
+            "c": "q17_opt_c.png",
+            "d": "q17_opt_d.png"
+          },
+          "solution_image": "q17_solution.png"
+        },
+        {
+          "question_no": 18,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q18_question.png",
+          "option_images": {
+            "a": "q18_opt_a.png",
+            "b": "q18_opt_b.png",
+            "c": "q18_opt_c.png",
+            "d": "q18_opt_d.png"
+          },
+          "solution_image": "q18_solution.png"
+        },
+        {
+          "question_no": 19,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q19_question.png",
+          "option_images": {
+            "a": "q19_opt_a.png",
+            "b": "q19_opt_b.png",
+            "c": "q19_opt_c.png",
+            "d": "q19_opt_d.png"
+          },
+          "solution_image": "q19_solution.png"
+        },
+        {
+          "question_no": 20,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q20_question.png",
+          "option_images": {
+            "a": "q20_opt_a.png",
+            "b": "q20_opt_b.png",
+            "c": "q20_opt_c.png",
+            "d": "q20_opt_d.png"
+          },
+          "solution_image": "q20_solution.png"
+        },
+        {
+          "question_no": 21,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q21_question.png",
+          "option_images": {
+            "a": "q21_opt_a.png",
+            "b": "q21_opt_b.png",
+            "c": "q21_opt_c.png",
+            "d": "q21_opt_d.png"
+          },
+          "solution_image": "q21_solution.png"
+        },
+        {
+          "question_no": 22,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q22_question.png",
+          "option_images": {
+            "a": "q22_opt_a.png",
+            "b": "q22_opt_b.png",
+            "c": "q22_opt_c.png",
+            "d": "q22_opt_d.png"
+          },
+          "solution_image": "q22_solution.png"
+        },
+        {
+          "question_no": 23,
+          "year": "NEET 2013",
+          "answer": "b",
+          "question_image": "q23_question.png",
+          "option_images": {
+            "a": "q23_opt_a.png",
+            "b": "q23_opt_b.png",
+            "c": "q23_opt_c.png",
+            "d": "q23_opt_d.png"
+          },
+          "solution_image": "q23_solution.png"
+        },
+        {
+          "question_no": 24,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q24_question.png",
+          "option_images": {
+            "a": "q24_opt_a.png",
+            "b": "q24_opt_b.png",
+            "c": "q24_opt_c.png",
+            "d": "q24_opt_d.png"
+          },
+          "solution_image": "q24_solution.png"
+        },
+        {
+          "question_no": 25,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q25_question.png",
+          "option_images": {
+            "a": "q25_opt_a.png",
+            "b": "q25_opt_b.png",
+            "c": "q25_opt_c.png",
+            "d": "q25_opt_d.png"
+          },
+          "solution_image": "q25_solution.png"
+        },
+        {
+          "question_no": 26,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q26_question.png",
+          "option_images": {
+            "a": "q26_opt_a.png",
+            "b": "q26_opt_b.png",
+            "c": "q26_opt_c.png",
+            "d": "q26_opt_d.png"
+          },
+          "solution_image": "q26_solution.png"
+        },
+        {
+          "question_no": 27,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q27_question.png",
+          "option_images": {
+            "a": "q27_opt_a.png",
+            "b": "q27_opt_b.png",
+            "c": "q27_opt_c.png",
+            "d": "q27_opt_d.png"
+          },
+          "solution_image": "q27_solution.png"
+        },
+        {
+          "question_no": 28,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q28_question.png",
+          "option_images": {
+            "a": "q28_opt_a.png",
+            "b": "q28_opt_b.png",
+            "c": "q28_opt_c.png",
+            "d": "q28_opt_d.png"
+          },
+          "solution_image": "q28_solution.png"
+        },
+        {
+          "question_no": 29,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q29_question.png",
+          "option_images": {
+            "a": "q29_opt_a.png",
+            "b": "q29_opt_b.png",
+            "c": "q29_opt_c.png",
+            "d": "q29_opt_d.png"
+          },
+          "solution_image": "q29_solution.png"
+        },
+        {
+          "question_no": 30,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q30_question.png",
+          "option_images": {
+            "a": "q30_opt_a.png",
+            "b": "q30_opt_b.png",
+            "c": "q30_opt_c.png",
+            "d": "q30_opt_d.png"
+          },
+          "solution_image": "q30_solution.png"
+        },
+        {
+          "question_no": 31,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q31_question.png",
+          "option_images": {
+            "a": "q31_opt_a.png",
+            "b": "q31_opt_b.png",
+            "c": "q31_opt_c.png",
+            "d": "q31_opt_d.png"
+          },
+          "solution_image": "q31_solution.png"
+        },
+        {
+          "question_no": 32,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q32_question.png",
+          "option_images": {
+            "a": "q32_opt_a.png",
+            "b": "q32_opt_b.png",
+            "c": "q32_opt_c.png",
+            "d": "q32_opt_d.png"
+          },
+          "solution_image": "q32_solution.png"
+        },
+        {
+          "question_no": 33,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q33_question.png",
+          "option_images": {
+            "a": "q33_opt_a.png",
+            "b": "q33_opt_b.png",
+            "c": "q33_opt_c.png",
+            "d": "q33_opt_d.png"
+          },
+          "solution_image": "q33_solution.png"
+        },
+        {
+          "question_no": 34,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q34_question.png",
+          "option_images": {
+            "a": "q34_opt_a.png",
+            "b": "q34_opt_b.png",
+            "c": "q34_opt_c.png",
+            "d": "q34_opt_d.png"
+          },
+          "solution_image": "q34_solution.png"
+        },
+        {
+          "question_no": 35,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q35_question.png",
+          "option_images": {
+            "a": "q35_opt_a.png",
+            "b": "q35_opt_b.png",
+            "c": "q35_opt_c.png",
+            "d": "q35_opt_d.png"
+          },
+          "solution_image": "q35_solution.png"
+        },
+        {
+          "question_no": 36,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q36_question.png",
+          "option_images": {
+            "a": "q36_opt_a.png",
+            "b": "q36_opt_b.png",
+            "c": "q36_opt_c.png",
+            "d": "q36_opt_d.png"
+          },
+          "solution_image": "q36_solution.png"
+        },
+        {
+          "question_no": 37,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q37_question.png",
+          "option_images": {
+            "a": "q37_opt_a.png",
+            "b": "q37_opt_b.png",
+            "c": "q37_opt_c.png",
+            "d": "q37_opt_d.png"
+          },
+          "solution_image": "q37_solution.png"
+        },
+        {
+          "question_no": 38,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q38_question.png",
+          "option_images": {
+            "a": "q38_opt_a.png",
+            "b": "q38_opt_b.png",
+            "c": "q38_opt_c.png",
+            "d": "q38_opt_d.png"
+          },
+          "solution_image": "q38_solution.png"
+        },
+        {
+          "question_no": 39,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q39_question.png",
+          "option_images": {
+            "a": "q39_opt_a.png",
+            "b": "q39_opt_b.png",
+            "c": "q39_opt_c.png",
+            "d": "q39_opt_d.png"
+          },
+          "solution_image": "q39_solution.png"
+        },
+        {
+          "question_no": 40,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q40_question.png",
+          "option_images": {
+            "a": "q40_opt_a.png",
+            "b": "q40_opt_b.png",
+            "c": "q40_opt_c.png",
+            "d": "q40_opt_d.png"
+          },
+          "solution_image": "q40_solution.png"
+        },
+        {
+          "question_no": 41,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q41_question.png",
+          "option_images": {
+            "a": "q41_opt_a.png",
+            "b": "q41_opt_b.png",
+            "c": "q41_opt_c.png",
+            "d": "q41_opt_d.png"
+          },
+          "solution_image": "q41_solution.png"
+        },
+        {
+          "question_no": 42,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q42_question.png",
+          "option_images": {
+            "a": "q42_opt_a.png",
+            "b": "q42_opt_b.png",
+            "c": "q42_opt_c.png",
+            "d": "q42_opt_d.png"
+          },
+          "solution_image": "q42_solution.png"
+        },
+        {
+          "question_no": 43,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q43_question.png",
+          "option_images": {
+            "a": "q43_opt_a.png",
+            "b": "q43_opt_b.png",
+            "c": "q43_opt_c.png",
+            "d": "q43_opt_d.png"
+          },
+          "solution_image": "q43_solution.png"
+        },
+        {
+          "question_no": 44,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q44_question.png",
+          "option_images": {
+            "a": "q44_opt_a.png",
+            "b": "q44_opt_b.png",
+            "c": "q44_opt_c.png",
+            "d": "q44_opt_d.png"
+          },
+          "solution_image": "q44_solution.png"
+        },
+        {
+          "question_no": 45,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q45_question.png",
+          "option_images": {
+            "a": "q45_opt_a.png",
+            "b": "q45_opt_b.png",
+            "c": "q45_opt_c.png",
+            "d": "q45_opt_d.png"
+          },
+          "solution_image": "q45_solution.png"
+        },
+        {
+          "question_no": 46,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q46_question.png",
+          "option_images": {
+            "a": "q46_opt_a.png",
+            "b": "q46_opt_b.png",
+            "c": "q46_opt_c.png",
+            "d": "q46_opt_d.png"
+          },
+          "solution_image": "q46_solution.png"
+        },
+        {
+          "question_no": 47,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q47_question.png",
+          "option_images": {
+            "a": "q47_opt_a.png",
+            "b": "q47_opt_b.png",
+            "c": "q47_opt_c.png",
+            "d": "q47_opt_d.png"
+          },
+          "solution_image": "q47_solution.png"
+        },
+        {
+          "question_no": 48,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q48_question.png",
+          "option_images": {
+            "a": "q48_opt_a.png",
+            "b": "q48_opt_b.png",
+            "c": "q48_opt_c.png",
+            "d": "q48_opt_d.png"
+          },
+          "solution_image": "q48_solution.png"
+        },
+        {
+          "question_no": 49,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q49_question.png",
+          "option_images": {
+            "a": "q49_opt_a.png",
+            "b": "q49_opt_b.png",
+            "c": "q49_opt_c.png",
+            "d": "q49_opt_d.png"
+          },
+          "solution_image": "q49_solution.png"
+        },
+        {
+          "question_no": 50,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q50_question.png",
+          "option_images": {
+            "a": "q50_opt_a.png",
+            "b": "q50_opt_b.png",
+            "c": "q50_opt_c.png",
+            "d": "q50_opt_d.png"
+          },
+          "solution_image": "q50_solution.png"
+        },
+        {
+          "question_no": 51,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q51_question.png",
+          "option_images": {
+            "a": "q51_opt_a.png",
+            "b": "q51_opt_b.png",
+            "c": "q51_opt_c.png",
+            "d": "q51_opt_d.png"
+          },
+          "solution_image": "q51_solution.png"
+        },
+        {
+          "question_no": 52,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q52_question.png",
+          "option_images": {
+            "a": "q52_opt_a.png",
+            "b": "q52_opt_b.png",
+            "c": "q52_opt_c.png",
+            "d": "q52_opt_d.png"
+          },
+          "solution_image": "q52_solution.png"
+        },
+        {
+          "question_no": 53,
+          "year": "NEET 2026",
+          "answer": "d",
+          "question_image": "q53_question.png",
+          "option_images": {
+            "a": "q53_opt_a.png",
+            "b": "q53_opt_b.png",
+            "c": "q53_opt_c.png",
+            "d": "q53_opt_d.png"
+          },
+          "solution_image": "q53_solution.png"
+        },
+        {
+          "question_no": 54,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q54_question.png",
+          "option_images": {
+            "a": "q54_opt_a.png",
+            "b": "q54_opt_b.png",
+            "c": "q54_opt_c.png",
+            "d": "q54_opt_d.png"
+          },
+          "solution_image": "q54_solution.png"
+        },
+        {
+          "question_no": 55,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q55_question.png",
+          "option_images": {
+            "a": "q55_opt_a.png",
+            "b": "q55_opt_b.png",
+            "c": "q55_opt_c.png",
+            "d": "q55_opt_d.png"
+          },
+          "solution_image": "q55_solution.png"
+        },
+        {
+          "question_no": 56,
+          "year": "NEET 2026",
+          "answer": "a",
+          "question_image": "q56_question.png",
+          "option_images": {
+            "a": "q56_opt_a.png",
+            "b": "q56_opt_b.png",
+            "c": "q56_opt_c.png",
+            "d": "q56_opt_d.png"
+          },
+          "solution_image": "q56_solution.png"
+        },
+        {
+          "question_no": 57,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q57_question.png",
+          "option_images": {
+            "a": "q57_opt_a.png",
+            "b": "q57_opt_b.png",
+            "c": "q57_opt_c.png",
+            "d": "q57_opt_d.png"
+          },
+          "solution_image": "q57_solution.png",
+          "option_layout": "graph"
+        },
+        {
+          "question_no": 58,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q58_question.png",
+          "option_images": {
+            "a": "q58_opt_a.png",
+            "b": "q58_opt_b.png",
+            "c": "q58_opt_c.png",
+            "d": "q58_opt_d.png"
+          },
+          "solution_image": "q58_solution.png"
+        },
+        {
+          "question_no": 59,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q59_question.png",
+          "option_images": {
+            "a": "q59_opt_a.png",
+            "b": "q59_opt_b.png",
+            "c": "q59_opt_c.png",
+            "d": "q59_opt_d.png"
+          },
+          "solution_image": "q59_solution.png"
+        },
+        {
+          "question_no": 60,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q60_question.png",
+          "option_images": {
+            "a": "q60_opt_a.png",
+            "b": "q60_opt_b.png",
+            "c": "q60_opt_c.png",
+            "d": "q60_opt_d.png"
+          },
+          "solution_image": "q60_solution.png"
+        },
+        {
+          "question_no": 61,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q61_question.png",
+          "option_images": {
+            "a": "q61_opt_a.png",
+            "b": "q61_opt_b.png",
+            "c": "q61_opt_c.png",
+            "d": "q61_opt_d.png"
+          },
+          "solution_image": "q61_solution.png"
+        },
+        {
+          "question_no": 62,
+          "year": "NEET 2026",
+          "answer": "b",
+          "question_image": "q62_question.png",
+          "option_images": {
+            "a": "q62_opt_a.png",
+            "b": "q62_opt_b.png",
+            "c": "q62_opt_c.png",
+            "d": "q62_opt_d.png"
+          },
+          "solution_image": "q62_solution.png"
+        },
+        {
+          "question_no": 63,
+          "year": "NEET 2026",
+          "answer": "c",
+          "question_image": "q63_question.png",
+          "option_images": {
+            "a": "q63_opt_a.png",
+            "b": "q63_opt_b.png",
+            "c": "q63_opt_c.png",
+            "d": "q63_opt_d.png"
+          },
+          "solution_image": "q63_solution.png"
+        }
+      ]
+    }
+  ]
+}

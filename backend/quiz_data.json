@@ -1,0 +1,2353 @@
+{
+ "id": "reexam-2026",
+ "title": "RE-NEET 2026",
+ "subtitle": "Re-Examination · 21st June 2026",
+ "duration_min": 195,
+ "total_marks": 720,
+ "marking": {
+  "correct": 4,
+  "wrong": -1
+ },
+ "questions": [
+  {
+   "id": 1,
+   "subject": "Physics",
+   "question": "An ideal gas is made of polyatomic molecules. Each molecule has three translational, three rotational, and f number of vibrational modes. If the ratio of heat capacities Cp/Cv of the gas is 8/7, then the value of f is:",
+   "options": [
+    "3",
+    "2",
+    "1",
+    "4"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 2,
+   "subject": "Physics",
+   "question": "One main scale division of a Vernier calliper is equal to 1 mm and the number of divisions on the Vernier scale is 10. When both the jaws touch each other, the Vernier scale shifts to the left of zero of the main scale in such a way that 4th Vernier division coincides with a division of the main scale. If this Vernier calliper measures the length of the wire to be 1 cm, the actual length of the wire is:",
+   "options": [
+    "0.96 cm",
+    "1.00 cm",
+    "1.04 cm",
+    "0.60 cm"
+   ],
+   "correct": null,
+   "marks": 4
+  },
+  {
+   "id": 3,
+   "subject": "Physics",
+   "question": "Three identical p-n junction diodes D₁, D₂, and D₃ are connected across a battery as shown in the figure. If the width of the depletion regions of D₁, D₂ and D₃ are W₁, W₂ and W₃, respectively, then the correct option is:",
+   "options": [
+    "W₃ = W₁ > W₂",
+    "W₃ > W₂ > W₁",
+    "W₂ > W₁ = W₃",
+    "W₁ > W₃ > W₂"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 4,
+   "subject": "Physics",
+   "question": "Consider a spring-mass simple harmonic oscillator in one dimension. The mass of the particle is m kg and the spring constant is k N/m. At a given instant, the extension of the spring is x meter and the speed of the particle is v m/s. On the x–v plane, if the graph of v as a function of x is a circle, then the correct option is:",
+   "options": [
+    "k = m",
+    "k = m / -",
+    "k = √(m)",
+    "k = —"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 5,
+   "subject": "Physics",
+   "question": "An electromagnetic wave travelling in a lossless dielectric medium having a dielectric constant, εᵣ = 9, has the electric field, E = E₀ sin(kz − 2π × 10⁸ t) V/m where E₀ is the amplitude and k is the wave vector. Among the following options, the incorrect choice is:",
+   "options": [
+    "The wavelength of the electromagnetic wave inside the medium is 300 m",
+    "The magnetic field is given by the relation B = sin(kz − 2π × 10⁸ t) where v is the speed of the electromagnetic wave inside the medium",
+    "The direction of propagation of the electromagnetic wave is along +z",
+    "The speed of the electromagnetic wave inside the medium is 10⁸ m/s"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 6,
+   "subject": "Physics",
+   "question": "A frictionless circular wire of unit radius is fixed on the horizontal plane. Two point particles of unit mass start moving simultaneously from point \\( a_0 (\\theta = 0) \\) with identical uniform angular speeds in opposite directions, and meet again at point \\( a (\\theta = \\pi) \\). During this time, which of the following figures schematically represent the magnitude of the total linear momentum \\( P \\) of the system, as a function of \\( \\theta \\)?",
+   "options": [
+    "(1)",
+    "(2)",
+    "(3)",
+    "(4)"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 7,
+   "subject": "Physics",
+   "question": "In Geiger-Marsden experiment, the number of scattered alpha-particles N(θ) is plotted as a function of scattering angle θ. Which of the following options represents the correct plot?",
+   "options": [
+    "(1)",
+    "(2)",
+    "(3)",
+    "(4)"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 8,
+   "subject": "Physics",
+   "question": "Consider three media P, Q and R with refractive indices 1, 1.25, and 1.5 respectively. The medium Q having a thickness of 5 cm is placed between extended media P and R as shown in the figure. An object O is placed at the centre of medium Q. If viewed from medium P near the normal direction, the apparent depth of O is \\( h_1 \\). For similar observation from medium R, the apparent depth is \\( h_2 \\). The value of \\( |h_1 - h_2| \\), in cm, is:",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 9,
+   "subject": "Physics",
+   "question": "Consider that σ, k_B, b represent Stefan-Boltzmann constant, Boltzmann constant and Wien’s displacement law constant, respectively. The dimension of σk_B^₃b is:",
+   "options": [
+    "[L T⁻⁵ K⁻⁴]",
+    "[L T⁻² K⁻¹]",
+    "[L T K⁴]",
+    "[L T⁻² K²]"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 10,
+   "subject": "Physics",
+   "question": "For sound waves, if the number of nodes for the 5th harmonic of an open-ended pipe is n and that for the 9th harmonic of the same pipe with one of its ends closed is m, the ratio \\( \\frac{n}{m} \\) is:",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 11,
+   "subject": "Physics",
+   "question": "Two infinitely long parallel conducting wires A and B carry currents I and 2I, respectively, in the same direction. The wire A has uniform mass per unit length μ and lies on an insulated floor. The wire B is kept fixed at a height h above the floor. The minimum magnitude of h so that the wire A does not rise from the floor is: [g is the acceleration due to gravity and μ₀ is the permeability of free space.]",
+   "options": [
+    "\\frac{μ₀ I^2}{4 π g μ}",
+    "2 μ₀ I^2 h / L",
+    "μ₀ μ h g",
+    "2 π μ₀ g"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 12,
+   "subject": "Physics",
+   "question": "An AC voltage V = 220 sin(2 × 10^3 t) Volt is applied to a series LCR circuit. Then the current amplitude in this circuit is: (Given: L= 10 mH, C = 25 pF, R= 100 Ω)",
+   "options": [
+    "5.5 A",
+    "11.0 A",
+    "22.0 A",
+    "2.2 A"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 13,
+   "subject": "Physics",
+   "question": "Consider a fixed uniformly charged insulating sphere with radius R and total charge +Q. A point charge −q (q << Q) with mass m is released from rest at a distance of 3R from the centre of the charged sphere. When the point charge reaches the surface of the sphere, its speed is: (ε₀ is the permittivity of vacuum; neglect gravitational forces.)",
+   "options": [
+    "√(k Q q / 3 m R)",
+    "√(k Q q / 4 m R)",
+    "√(3 k Q q / m R)",
+    "√(4 k Q q / 3 m R)"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 14,
+   "subject": "Physics",
+   "question": "A beam of light falls on a metal surface such that photo-electrons are generated. If the power of the light source starts to decrease linearly with time t, then the variation of the photocurrent I and magnitude of the stopping potential |V| with time is best represented by:",
+   "options": [
+    "I decreases linearly with t, |V| remains constant",
+    "I remains constant, |V| decreases linearly with t",
+    "Both I and |V| decrease linearly with t",
+    "I decreases linearly with t, |V| remains constant"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 15,
+   "subject": "Physics",
+   "question": "Two planets P₁ and P₂ with equal mass have radii R₁ and R₂, respectively, where R₁ = (some fraction of R₂). The escape speeds of P₁ and P₂ are v₁ and v₂, respectively. Then v₂ is:",
+   "options": [
+    "v₁",
+    "√2 v₁",
+    "2 v₁",
+    "(missing / incomplete)"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 16,
+   "subject": "Physics",
+   "question": "A unit positive point charge is taken slowly through an infinitesimally thin tube that is inside a charged dielectric sphere of radius R, having uniform positive charge density ρ, as shown in the figure. The initial and final positions of the charge are marked by A and B at distance 2R and 3R respectively from the centre of the sphere. In this process, the magnitude of the total work done on the point charge is phe. The value of n is:",
+   "options": [
+    "6",
+    "9",
+    "18",
+    "2"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 17,
+   "subject": "Physics",
+   "question": "One mole of an ideal monatomic gas undergoes a cyclic process as shown in the figure. The total heat supplied to the gas is:",
+   "options": [
+    "500 J",
+    "600 J",
+    "800 J",
+    "400 J"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 18,
+   "subject": "Physics",
+   "question": "The following table presents the part of the electromagnetic spectrum and their corresponding major applications.\n\nPart of the electromagnetic spectrum:\nP. Microwave\nQ. UV rays\nR. Gamma rays\nS. Radio wave\n\nApplications:\nI. For purifying the water\nII. For warming the food\nIII. For AM and FM communication systems\nIV. For treating the cancer cells\n\nThe correct option is:",
+   "options": [
+    "P-I, Q-IV, R-II, S-III",
+    "P-II, Q-IV, R-III, S-I",
+    "P-II, Q-I, R-IV, S-III",
+    "P-I, Q-II, R-III, S-IV"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 19,
+   "subject": "Physics",
+   "question": "A car travels on a circular racetrack of radius 50 m, which is banked at an angle θ. If the car travels at a speed 10 ms⁻¹, then the wear and tear on its tyres is minimum. Taking the acceleration due to gravity to be 10 ms⁻², the value of θ is:",
+   "options": [
+    "tan⁻¹(2)",
+    "tan⁻¹(√3/2)",
+    "tan⁻¹(5)",
+    "tan⁻¹(2√3)"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 20,
+   "subject": "Physics",
+   "question": "Consider a particle moving along a straight line, whose position as a function of time is given by s(t) = at² − Bt + y, where a = 1 ms⁻², B = 6 ms⁻¹ and y = 5 m. The average speed of the particle, in ms⁻¹ from t = 0 to t = 6 s is:",
+   "options": [
+    "6",
+    "3",
+    "0",
+    "12"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 21,
+   "subject": "Physics",
+   "question": "A point charge Q is placed inside a cavity within a solid isolated conducting sphere. Consider points A, B and C as shown in the figure, where the magnitudes of the electric fields are Eₐ, E_b, E_c, respectively. The points B and C are at the same distance from the center of the solid sphere. The correct option is:",
+   "options": [
+    "Eₐ ≠ 0, E_b = 0, E_b = E_c",
+    "Eₐ = 0, E_b > 0, E_b > E_c",
+    "Eₐ ≠ 0, E_b < E_c",
+    "Eₐ = 0, E_b = E_c"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 22,
+   "subject": "Physics",
+   "question": "In the measurement of viscosity of liquids using the terminal velocity experiment, spherical balls of the same radius but having different densities are used. The variation of the terminal velocity (v) with the ratio of the density of the spherical ball (ρ) to the density of the liquid (σ), is best represented by:",
+   "options": [
+    "(1)",
+    "(2)",
+    "(3)",
+    "(4)"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 23,
+   "subject": "Physics",
+   "question": "A ray of light with wavelength λ is incident on three different photoelectric cells namely 1, 2 and 3. The threshold wavelengths of these photoelectric cells are λ₁, λ₂, and λ₃ respectively, and the magnitudes of stopping potentials of these cells are V₁, V₂ and V₃, respectively. The relation between the threshold wavelengths is λ₁ < λ₂ < λ₃. The correct option is:",
+   "options": [
+    "V₁ = 0, V₂ > V₃",
+    "V₁ > V₂, V₃ = 0",
+    "V₁ < V₂, V₁ = 0",
+    "V₁ = 0, V₂ < V₃"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 24,
+   "subject": "Physics",
+   "question": "A current I flows through a metallic circular loop of radius r as shown in the figure. The resistance of the segment ABC is half that of ADC. The magnitude of the magnetic field at the centre O of the loop is:",
+   "options": [
+    "(1) μ₀I/4r",
+    "(2) μ₀I/2r",
+    "(3) —",
+    "(4) 0"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 25,
+   "subject": "Physics",
+   "question": "A particle of mass M moves along a horizontal x axis from x = 0 to x = L. The coefficient of kinetic friction varies as a function of x as μ(x) = μ₀ - a x, where μ₀ and a are constants of appropriate dimensions, so that μ(L) = 0. The total work done by the frictional force during the motion is n μ₀MgL, where g is the acceleration due to gravity. The value of n is:",
+   "options": [
+    "1",
+    "1/2",
+    "2/3",
+    "3"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 26,
+   "subject": "Physics",
+   "question": "In a solar system, the time-period of revolution of a planet tracing a circular orbit of radius R is proportional to:",
+   "options": [
+    "R³⁄²",
+    "R²",
+    "R³",
+    "R½"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 27,
+   "subject": "Physics",
+   "question": "A solid sphere A of radius R and mass M is attached at a point to a smaller solid sphere B of radius r < R and mass m < M. Assume that the line joining their centres lies along the horizontal. The moment of inertia of the system calculated about a vertical axis passing through the centre of A is I₁, and that calculated about a vertical axis passing through the centre of B is I₂. The difference I₂ – I₁ is:",
+   "options": [
+    "(m – M)(R + r)²",
+    "(m – M)(R – r)²",
+    "0",
+    "(M – m)(R + r)²"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 28,
+   "subject": "Physics",
+   "question": "The lens combination as shown in the figure consists of two lenses, L₁ and L₂, of focal lengths +10 cm and -10 cm, respectively. The position of the image formed is:",
+   "options": [
+    "60 cm to the left of the concave lens",
+    "30 cm to the right of the concave lens",
+    "60 cm to the right of the concave lens",
+    "20 cm to the left of the concave lens"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 29,
+   "subject": "Physics",
+   "question": "An ideal Zener diode with breakdown voltage of -3 V is reverse biased with a negative input voltage V_in = -5 V. The magnitude of voltage difference between point B and A is:",
+   "options": [
+    "2 V",
+    "1 V",
+    "0 V",
+    "3 V"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 30,
+   "subject": "Physics",
+   "question": "Three identical capacitors, P, Q and S, each of the capacitance C, are connected to a battery of voltage V, as shown in the figure. If the energy stored in the capacitor P and total energy stored in the system are U_P and U_total, respectively, then the ratio U_P/U_total is:",
+   "options": [
+    "1/3",
+    "1/2",
+    "1/6",
+    "2/3"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 31,
+   "subject": "Physics",
+   "question": "A conducting loop of finite resistance lies on the x–y plane. There is a constant magnetic field in the z direction. The area of the loop varies with time t, as A = A₀(1 + sin t) in appropriate units. The figure that correctly indicates the qualitative behaviour of the power P dissipated in the loop as a function of time is:",
+   "options": [
+    "Option 1 (figure)",
+    "Option 2 (figure)",
+    "Option 3 (figure)",
+    "Option 4 (figure)"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 32,
+   "subject": "Physics",
+   "question": "Consider two circuits, (A) and (B), each having two resistors. One of them has a positive temperature coefficient of resistance, +α, while the other one has a negative temperature coefficient, −α, as shown in the figure. The current through these circuits are denoted by I₁ and I₂. At initial temperature, the resistance of the two resistors is R₀. As the temperature is increased, the correct option that describes the variation of current in these circuits is:",
+   "options": [
+    "I₁ decreases while I₂ increases",
+    "I₁ increases while I₂ decreases",
+    "Both I₁ and I₂ remain constant",
+    "I₁ remains constant while I₂ increases"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 33,
+   "subject": "Physics",
+   "question": "Bob B of mass m at rest is hanging vertically from the ceiling via a massless string of length 10 m. Point mass A of mass m travelling horizontally with speed 10 m/s hits bob B elastically. The bob B rises h meter after the collision. Taking the acceleration due to gravity g = 10 m/s² and neglecting the size of the bob, the value of h is:",
+   "options": [
+    "7",
+    "5",
+    "2.5",
+    "8"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 34,
+   "subject": "Physics",
+   "question": "A cylindrical cork of uniform density floats in a liquid of density ρ₁. If the cork is depressed slightly and released, it oscillates harmonically with time period T. If the same cork floats in another liquid of density ρ₂, then the similar oscillation has time period T₂. The value of ρ₂ / ρ₁ is:",
+   "options": [
+    "2",
+    "1/2",
+    "1/4",
+    "4"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 35,
+   "subject": "Physics",
+   "question": "The mean free path of molecules in an ideal gas A is half that of another ideal gas B. The diameter of the spherical molecules of gas A is twice the diameter of the molecules of gas B. If number densities of the gases A and B are n_a and n_b, respectively, the correct option is:",
+   "options": [
+    "n_a = 2 n_b",
+    "n_a = 4 n_b",
+    "n_a = 3 n_b",
+    "n_a = n_b"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 36,
+   "subject": "Physics",
+   "question": "Consider the following nuclear reaction:\n\n²³⁴U → ²³⁸Th + ⁴He\n\nTake masses of ²³⁸U, ²³⁴Th and ⁴He as 238.050 u, 234.043 u and 4.003 u, respectively. The Q value for the reaction, in keV, is:\n[Given: 1 u = 931.5 MeV/c²]",
+   "options": [
+    "3730",
+    "3736",
+    "3740",
+    "3726"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 37,
+   "subject": "Physics",
+   "question": "Consider a long solenoid of length l and radius r. If n is the number of turns per unit length and μ₀ is the permeability of free space, the inductance of the solenoid is:",
+   "options": [
+    "μ₀ π n² r² l",
+    "(μ₀/2π) n² r² l",
+    "2 π μ₀ n² r² l",
+    "μ₀ n² r² l"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 38,
+   "subject": "Physics",
+   "question": "Which of the following measurements require ‘index correction’?",
+   "options": [
+    "Measurement of gravitational acceleration using simple pendulum",
+    "Measurement of focal length of lenses using optical bench",
+    "Measurement of speed of sound using resonance tube",
+    "Measurement of resistance of a wire using meter bridge"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 39,
+   "subject": "Physics",
+   "question": "The temperature of a metallic sphere of radius R is increased by a small amount ΔT. If the linear coefficient of thermal expansion of the metal is α, the approximate increase in the volume of the sphere is:",
+   "options": [
+    "3 π R² α ΔT",
+    "4 π R² α ΔT",
+    "6 π R² α ΔT",
+    "2 π R² α ΔT"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 40,
+   "subject": "Physics",
+   "question": "A photon and an electron, each of 20 eV energy, move in free space. The ratio of linear momentum of electron (P_e) to that of photon (P_ph), P_e/P_ph, is:\n\n[Take speed of light = 3 × 10⁸ m/s, charge of electron = −1.6 × 10⁻¹⁹ C and mass of electron = 9 × 10⁻³¹ kg]",
+   "options": [
+    "250",
+    "225",
+    "275",
+    "7450"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 41,
+   "subject": "Physics",
+   "question": "Consider that an electron is revolving in an excited state of Hydrogen atom with velocity 2.56×10⁶ m/s. The radius of the orbit is x × 10⁻⁹ m. The value of x is:\n\n[Take the mass of electron = 9×10⁻³¹ kg, charge of electron = -1.6×10⁻¹⁹ C and k = 9×10⁹ N·m²/C²]",
+   "options": [
+    "3",
+    "2",
+    "1",
+    "4"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 42,
+   "subject": "Physics",
+   "question": "Two identical inductors are connected in two different configurations P and Q, where a time varying current I(t) is flowing, as shown in the figure. The induced emf between points a and b for configuration P is E_p and that for configuration Q is E_q. The ratio E_p/E_q is:\n\n[Neglect the effect of mutual inductance.]",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 43,
+   "subject": "Physics",
+   "question": "In an adiabatic expansion, the temperature of one mole of an ideal monatomic gas (γ = 5/3) decreases from 60 K to 50 K. The work done by the gas in the process is:\n\n(Take the universal gas constant R = 8.3 J mol⁻¹ K⁻¹)",
+   "options": [
+    "83 J",
+    "124.5 J",
+    "166 J",
+    "41.5 J"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 44,
+   "subject": "Physics",
+   "question": "Water flows in a streamline motion through a horizontal pipe of circular cross-section as shown in the figure. The pressure difference of water between P and Q is 15 N/m². The area of cross-section at P and Q are 40 cm² and 20 cm², respectively. The rate of flow of water through the pipe, in cm³/s, is:\n\n[Take density of water = 1000 kg/m³]",
+   "options": [
+    "200",
+    "300",
+    "400",
+    "100"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 45,
+   "subject": "Physics",
+   "question": "A thin horizontal disc is rotating about a vertical axis passing through its fixed centre O. Its angular momentum is Lₐ and L_b computed about points A and B, respectively, with OB = 2 × OA. The value of L_b / Lₐ is:",
+   "options": [
+    "½",
+    "1",
+    "2",
+    "4"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 46,
+   "subject": "Chemistry",
+   "question": "Match the species in List-I with their geometry in List-II.\n\nList-I:\nA. Dz. [Ni(CN)4]2-\nB. [Ni(CN)6]4-\nC. IV.\nD. Square pyramidal\n\nList-II:\nI. Tetrahedral\nII. Square Planar\nIII. Trigonal bipyramidal\nIV. Square pyramidal\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "A-III, B-IV, C-I, D-II",
+    "A-III, B-I, C-II, D-IV",
+    "A-III, B-II, C-I, D-IV",
+    "A-IV, B-III, C-I, D-II"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 47,
+   "subject": "Chemistry",
+   "question": "The amino acid that gives a red-brown colour on treating its sodium fusion extract with sodium nitroprusside is:",
+   "options": [
+    "threonine",
+    "methionine",
+    "serine",
+    "leucine"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 48,
+   "subject": "Chemistry",
+   "question": "Given below are two statements:\n\nStatement-I: Oxidation of p-nitrotoluene with acidic KMnO4 gives an acid that is stronger than benzoic acid.\n\nStatement-II: Reduction of p-nitrotoluene with Sn/HCl followed by neutralization gives an amine that is more basic than aniline.\n\nIn light of the above statements, choose the most appropriate answer from the options given below.",
+   "options": [
+    "Both Statement-I and Statement-II are incorrect",
+    "Statement-I is correct but Statement-II is incorrect",
+    "Statement-I is incorrect but Statement-II is correct",
+    "Both Statement-I and Statement-II are correct"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 49,
+   "subject": "Chemistry",
+   "question": "The standard electrode potential (E°) for the half-cell reaction Fe³⁺ + e⁻ → Fe²⁺ at 298 K is:\n\n(Given: E°(Fe³⁺/Fe) = -0.04 V and E°(Fe²⁺/Fe) = -0.44 V at 298 K)",
+   "options": [
+    "+0.76 V",
+    "+0.48 V",
+    "+0.92 V",
+    "+0.40 V"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 50,
+   "subject": "Chemistry",
+   "question": "The compound that CANNOT be obtained from the aldol condensation reaction shown below is:\n\nPhCHO + HAC, NaOH → ?",
+   "options": [
+    "(1) Structure 1",
+    "(2) Structure 2",
+    "(3) Structure 3",
+    "(4) Structure 4"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 51,
+   "subject": "Chemistry",
+   "question": "For a salt XY, which is a strong electrolyte, the plot of Λ vs √c has a slope of -90.0 S cm² mol⁻¹/2 L½ at 298 K. At 0.01 M concentration of XY, the value of Λ is 145.0 S cm² mol⁻¹. The limiting molar conductivity of Y⁻ ion (Λ⁰_Y⁻, in S cm² mol⁻¹) at 298 K will be",
+   "options": [
+    "100.0",
+    "90.0",
+    "76.0",
+    "80.0"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 52,
+   "subject": "Chemistry",
+   "question": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: The first ionization enthalpy of O is lower than that of N and F.\nReason R: The loss of an electron from O leads to stable half-filled p orbital.\nIn light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both A and R are correct and R is NOT the correct explanation of A",
+    "A is correct but R is not correct.",
+    "A is not correct but R is correct",
+    "Both A and R are correct and R is the correct explanation of A"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 53,
+   "subject": "Chemistry",
+   "question": "According to crystal field theory, the correct order of ligands with respect to their decreasing order of field strength is",
+   "options": [
+    "CO > H₂O > NH₃ > Cl⁻",
+    "Cl⁻ > H₂O > NH₃ > CO",
+    "Cl⁻ > NH₃ > H₂O > CO",
+    "CO > NH₃ > H₂O > Cl⁻"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 54,
+   "subject": "Chemistry",
+   "question": "Given below are two statements:\nStatement-I : [Fe(ox)₃]³⁻ is chiral.\nStatement-II : trans-[Cr(H₂O)₂(ox)₂]⁻ is chiral.\n(Given: ox²⁻ = HOOC–COOH)\nIn light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both Statement-I and Statement-II are incorrect",
+    "Statement-I is correct but Statement-II is incorrect",
+    "Statement-I is incorrect but Statement-II is correct",
+    "Both Statement-I and Statement-II are correct"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 55,
+   "subject": "Chemistry",
+   "question": "For the following reaction sequence, choose the correct option:\ni. CH₃COCl \nii. NaOCl",
+   "options": [
+    "P and Q are aromatic compounds",
+    "If P gives a carboxylic acid on acidification, Q gives a poisonous gas on exposure to air and light",
+    "Both P and Q are carbonyl compounds",
+    "If P is the sodium salt of a carboxylic acid, Q is a primary alcohol"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 56,
+   "subject": "Chemistry",
+   "question": "For an elementary chemical reaction, the Arrhenius plot is given below. If the energy of activation is 6.64 kJ mol⁻¹ and R = 8.3 J K⁻¹ mol⁻¹, the temperature at which the rate constant becomes e² min⁻¹ is",
+   "options": [
+    "150 K",
+    "200 K",
+    "250 K",
+    "125 K"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 57,
+   "subject": "Chemistry",
+   "question": "Arrange the following compounds in the increasing order of polarity:\nA. CH₃CH₂OCH₂CH₃\nB. CH₃CH₂OH\nC. CH₃COCH₃\nD. CH₃COOH\nChoose the correct answer from the options given below.",
+   "options": [
+    "C < A < D < B",
+    "C < A < B < D",
+    "A < C < B < D",
+    "A < B < C < D"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 58,
+   "subject": "Chemistry",
+   "question": "A protein undergoes reversible thermal denaturation from its initial state N to denatured state D according to N ⇌ D. At 60°C, the concentrations of both N and D are equal at equilibrium, and the standard enthalpy change of denaturation is 666 kJ mol⁻¹. The standard entropy change (ΔS° in kJ K⁻¹ mol⁻¹) of the protein upon denaturation at 60°C is closest to",
+   "options": [
+    "2000.0",
+    "333.0",
+    "11.1",
+    "2.0"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 59,
+   "subject": "Chemistry",
+   "question": "Consider the following statements about the solutions formed by mixing two liquids.\nA. An ideal solution thus formed obeys Raoult's law throughout the composition range.\nB. Mixture of chloroform and acetone shows negative deviation from Raoult’s law.\nC. Mixture of aniline and phenol shows positive deviation from Raoult’s law.",
+   "options": [
+    "B and C only",
+    "A only",
+    "A and C only",
+    "A and B only"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 60,
+   "subject": "Chemistry",
+   "question": "Given below are two statements:\nStatement-I : Heating NaCl with concentrated H₂SO₄ and MnO₂ results in oxidation of Mn.\nStatement-II : Heating NaI with concentrated H₂SO₄ and MnO₂ results in reduction of Mn.\nIn light of the above statements, choose the most appropriate answer from the options given below.",
+   "options": [
+    "Both Statement-I and Statement-II are incorrect",
+    "Statement-I is correct but Statement-II is incorrect",
+    "Statement-I is incorrect but Statement-II is correct",
+    "Both Statement-I and Statement-II are correct"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 61,
+   "subject": "Chemistry",
+   "question": "Given below are two statements:\n\nStatement I: trans-But-2-ene upon treatment with Br₂ in CCl₄ gives the following product.\n\nStatement II: cis-But-2-ene upon treatment with alkaline KMnO₄ gives the following product.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below.",
+   "options": [
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 62,
+   "subject": "Chemistry",
+   "question": "The highest occupied molecular orbital for Ne₂ is",
+   "options": [
+    "σp",
+    "πay",
+    "σπ",
+    "πap"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 63,
+   "subject": "Chemistry",
+   "question": "The following carbocation is stabilized by the interaction of the empty p orbital with",
+   "options": [
+    "empty σ and empty π* orbitals",
+    "empty σ* and filled π orbitals",
+    "empty σ* and empty π* orbitals",
+    "filled σ and filled π orbitals"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 64,
+   "subject": "Chemistry",
+   "question": "The green paramagnetic species formed by heating KMnO₄ at 513 K is",
+   "options": [
+    "MnSO₄",
+    "MnO",
+    "KO₂",
+    "K₂MnO₄"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 65,
+   "subject": "Chemistry",
+   "question": "The correct statement is",
+   "options": [
+    "Beryllium has three valence orbitals.",
+    "Magnesium has a maximum covalency of four.",
+    "Aluminium has five valence orbitals.",
+    "Boron has a maximum covalency of four."
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 66,
+   "subject": "Chemistry",
+   "question": "The correct statement about peptides and proteins is",
+   "options": [
+    "Only the proteins having a quaternary structure are biologically active",
+    "In β-pleated sheet structures, peptide chains are held together by intermolecular hydrogen bonds",
+    "In α-helices, the polypeptide chain is twisted into a left-handed screw (helix) through intramolecular hydrogen bonds",
+    "Tertiary structure of proteins has two or more polypeptide subunits"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 67,
+   "subject": "Chemistry",
+   "question": "2A → B is a zero-order reaction, where k = 1.0 mol L⁻¹ min⁻¹. If the initial concentration of A is 2 M, then the time taken to complete 75% of the reaction will be",
+   "options": [
+    "0.75 min",
+    "1.0 min",
+    "2.0 min",
+    "1.5 min"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 68,
+   "subject": "Chemistry",
+   "question": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: Generally, 3d transition metals have high melting points.\nReason R: Involvement of 3d-electrons in addition to 4s-electrons in the interatomic metallic bonding.\nIn light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both A and R are correct and R is NOT the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct",
+    "Both A and R are correct and R is the correct explanation of A"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 69,
+   "subject": "Chemistry",
+   "question": "Consider the following schematic plots of orbital wavefunction (ψ) against distance (r) from the nucleus.\nThe figure representing two radial nodes in the orbital is",
+   "options": [
+    "B",
+    "C",
+    "D",
+    "A"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 70,
+   "subject": "Chemistry",
+   "question": "Identify the reactions which give aniline as the major product. Choose the correct answer from the options given below.",
+   "options": [
+    "B and D only",
+    "A and C only",
+    "C and D only",
+    "A and B only"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 71,
+   "subject": "Chemistry",
+   "question": "Among the species given below, the spin-only magnetic moment is highest for (Given: Atomic number of Ti = 22, Mn = 25, Fe = 26 and Co = 27)",
+   "options": [
+    "[Fe(CN)₆]⁴⁻",
+    "[Co(NH₃)₆]³⁺",
+    "[Ti(H₂O)₆]³⁺",
+    "[Mn(CN)₆]³⁻"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 72,
+   "subject": "Chemistry",
+   "question": "The complex which has facial and meridional isomers is (Given: py = pyridine and en = H₂N–CH₂–CH₂–NH₂)",
+   "options": [
+    "[Cr(H₂O)₆]³⁺",
+    "[Co(NH₃)₄(H₂O)₂]²⁺",
+    "[Ni(en)₂(H₂O)₂]²⁺",
+    "[Cr(py)₃(Cl)₃]"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 73,
+   "subject": "Chemistry",
+   "question": "A 1:3 electrolyte in an aqueous solution is",
+   "options": [
+    "[CoCl(NH₃)₅]Cl₂",
+    "[Co(NH₃)₆]Cl₃",
+    "[Co(NH₃)₅(NO₂)]³⁺",
+    "[CoCl₂(NH₃)₄]Cl"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 74,
+   "subject": "Chemistry",
+   "question": "Consider the reversible processes for 1.0 mol of an ideal gas as shown in the figure. Processes 2 and 4 are adiabatic. W₁, W₂, W₃ and W₄ represent work done (in calories) in the processes 1, 2, 3 and 4, respectively; ΔU₂ and ΔU₄ are changes in the internal energy for the processes 2 and 4, respectively. [Use R = 2 cal K⁻¹ mol⁻¹] The correct option is",
+   "options": [
+    "W₁ + W₃ = ΔU₂ - ΔU₄",
+    "W₁ + W₄ = 2T ln(V₁/Vₛ)",
+    "W₁ + W₂ + W₃ + W₄ = 0",
+    "W₁ + W₄ = -2 T ln(V₁/Vₛ)"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 75,
+   "subject": "Chemistry",
+   "question": "In an acidic medium, 10 mL of 0.25 M oxalic acid is titrated with KMnO₄ solution. If the volume of KMnO₄ solution required to reach end point is 10 mL, the strength of the KMnO₄ solution is",
+   "options": [
+    "0.20 M",
+    "0.25 M",
+    "0.15 M",
+    "0.10 M"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 76,
+   "subject": "Chemistry",
+   "question": "The lanthanide ion having four unpaired electrons is (Given: Atomic numbers of Ce = 58, Nd = 60, Tb = 65 and Ho = 67)",
+   "options": [
+    "Ce³⁺",
+    "Tb³⁺",
+    "Ho³⁺",
+    "Nd³⁺"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 77,
+   "subject": "Chemistry",
+   "question": "The correct decreasing order of oxidation state of the underlined atom in each molecule is",
+   "options": [
+    "N₂O₅ > Al₂O₃ > H₂S",
+    "PbO₂ > N₂O₃ > SO₃",
+    "P₄O₁₀ > Cl₂O₇ > AlH₃",
+    "P₄O₁₀ > SO₃ > H₂O"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 78,
+   "subject": "Chemistry",
+   "question": "The formula of tetraammineaquachloridocobalt(III) chloride is",
+   "options": [
+    "[Co(NH₃)₅]Cl₃ · H₂O",
+    "[Co(NH₃)₆(H₂O)Cl]Cl",
+    "[Co(NH₃)₄(H₂O)Cl]Cl₂",
+    "[Co(NH₃)₅Cl₂] · H₂O"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 79,
+   "subject": "Chemistry",
+   "question": "Consider the following reaction, and choose the correct option.\n\nH₂\nCH₃\n\n(i) CrO₂Cl₂, CS₂\n(ii) H₂O\n\n(1) Compound P can be prepared by treating benzene with anhydrous AlCl₃ and CH₃COCl\n(2) On treatment with bromine water, compound P gives a white precipitate\n(3) Compound P is obtained by the hydrogenation of benzoyl chloride with Pd on BaSO₄\n(4) On treating compound P with saturated NaHCO₃ solution, brisk effervescence is observed",
+   "options": [
+    "Compound P can be prepared by treating benzene with anhydrous AlCl₃ and CH₃COCl",
+    "On treatment with bromine water, compound P gives a white precipitate",
+    "Compound P is obtained by the hydrogenation of benzoyl chloride with Pd on BaSO₄",
+    "On treating compound P with saturated NaHCO₃ solution, brisk effervescence is observed"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 80,
+   "subject": "Chemistry",
+   "question": "Assertion A: For an ideal solution formed by mixing liquids P and Q, ΔmixH = 0 and ΔmixV = 0\nReason R: No interactions occur between P and Q\n\nIn the light of the above statements, choose the most appropriate answer from the options given below.",
+   "options": [
+    "Both A and R are correct but R is NOT the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct",
+    "Both A and R are correct and R is the correct explanation of A"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 81,
+   "subject": "Chemistry",
+   "question": "Match the vitamins in List-I with their sources in List-II:\n\nList-I\nA. vitamin A\nB. vitamin B\nC. vitamin E\nD. vitamin K\n\nList-II\nI. meat\nII. sunflower oil\nIII. carrots\nIV. green leafy vegetables\n\nChoose the correct answer from the options given below.",
+   "options": [
+    "A-IV, B-I, C-II, D-III",
+    "A-IV, B-II, C-I, D-III",
+    "A-III, B-I, C-IV, D-II",
+    "A-II, B-III, C-IV, D-I"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 82,
+   "subject": "Chemistry",
+   "question": "Among the following, the compound having conjugated double bonds is",
+   "options": [
+    "hepta-1,4-diene",
+    "hepta-1,5-diene",
+    "hepta-1,6-diene",
+    "hepta-1,3-diene"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 83,
+   "subject": "Chemistry",
+   "question": "An organic compound (diene) with two double bonds separated by one single bond is termed a conjugated diene.\n\nOne of the products formed in the following reaction is:\n\n(mae + (» NH₃ ——> NH₂\n\n(Note: Reaction partially given in text, unable to extract full reaction)",
+   "options": [
+    "(option text not provided)",
+    "(option text not provided)",
+    "(option text not provided)",
+    "(option text not provided)"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 84,
+   "subject": "Chemistry",
+   "question": "Two moles of an ideal gas undergo free expansion from 10 L to 100 L at 300 K. The values of ΔS_system and ΔS_surroundings are (R is universal gas constant).",
+   "options": [
+    "ΔS_system = 4.606 R; ΔS_surroundings = –4.606 R",
+    "ΔS_system = 0; ΔS_surroundings = 4.606 R",
+    "ΔS_system = 4.606 R; ΔS_surroundings = 0",
+    "ΔS_system = 0; ΔS_surroundings = 0"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 85,
+   "subject": "Chemistry",
+   "question": "Among the following options, the correct trend in the electron gain enthalpy is",
+   "options": [
+    "Br > Cl > F > I",
+    "Cl > F > Br > I",
+    "I > Br > Cl > F",
+    "F > Cl > Br > I"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 86,
+   "subject": "Chemistry",
+   "question": "The correct order of solubility of the given salts in water at 298 K is\nSalt Ksp at 298 K\nAgBr 5.0 x 10⁻⁸\nZn(OH)₂ 1.0 x 10⁻¹⁵\nHg₂Cl₂ 1.3 x 10⁻⁸",
+   "options": [
+    "AgBr > Zn(OH)₂ > Hg₂Cl₂",
+    "Hg₂Cl₂ > AgBr > Zn(OH)₂",
+    "Zn(OH)₂ > AgBr > Hg₂Cl₂",
+    "Hg₂Cl₂ > Zn(OH)₂ > AgBr"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 87,
+   "subject": "Chemistry",
+   "question": "Consider the following reaction sequences and choose the correct option.\n\nNa / liq. NH₃, H₂, Pd/C\nPh-C≡C-Me → (Lindlar's Catalyst) →\nHBr, HBr, benzoyl peroxide\n\n(K)  →  (L)\n\nPh-CH=CH-CH₂Br (M)\nPh-CHBr-CH=CH₂ (N)",
+   "options": [
+    "K and L are enantiomers",
+    "M and N are geometrical isomers",
+    "M and N are stereoisomers",
+    "K and L are geometrical isomers"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 88,
+   "subject": "Chemistry",
+   "question": "The amount of carbon dioxide evolved upon complete combustion of 116 g of n-butane is\n\n(Given: atomic mass in amu H = 1, C = 12, and O = 16)",
+   "options": [
+    "322 g",
+    "176 g",
+    "362 g",
+    "352 g"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 89,
+   "subject": "Chemistry",
+   "question": "The numbers 17.0145 and 21.0235 were rounded to three figures after the decimal point. The resulting numbers, respectively, are",
+   "options": [
+    "17.015 and 21.023",
+    "17.014 and 21.024",
+    "17.015 and 21.024",
+    "17.014 and 21.023"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 90,
+   "subject": "Chemistry",
+   "question": "In potash alum, the ratio of K⁺ and SO₄²⁻ ions is",
+   "options": [
+    "2:4",
+    "2:3",
+    "3:2",
+    "1:2"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 91,
+   "subject": "Biology",
+   "question": "The number of vertebrae in a human is",
+   "options": [
+    "12",
+    "26",
+    "206",
+    "7"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 92,
+   "subject": "Biology",
+   "question": "Which one of the following statements is incorrect?",
+   "options": [
+    "α-cells of pancreas secrete insulin",
+    "Glucagon stimulates glycogenolysis",
+    "β-cells of pancreas secrete insulin",
+    "α-cells of pancreas secrete glucagon"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 93,
+   "subject": "Biology",
+   "question": "Given below are two statements:\n\nStatement I : The class name Reptilia refers to creeping or crawling mode of locomotion.\n\nStatement II : All organisms belonging to Reptilia have three chambered heart.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 94,
+   "subject": "Biology",
+   "question": "Which of the following statements related to pituitary gland are correct?\n(a) It is divided anatomically into adenohypophysis and neurohypophysis\n(b) It secretes follicle stimulating hormone\n(c) It secretes melanocyte stimulating hormone\n(d) It does not secrete prolactin\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "(a), (b) and (c) only",
+    "(c) and (d) only",
+    "(b) and (c) only",
+    "(a) and (b) only"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 95,
+   "subject": "Biology",
+   "question": "Match List-I with List-II.",
+   "options": [
+    "A-I, B-I, C-IV, D-II",
+    "A-I, B-I, C-III, D-IV",
+    "A-I, B-II, C-III, D-IV",
+    "A-I, B-II, C-IV, D-III"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 96,
+   "subject": "Biology",
+   "question": "In water, frogs respire using",
+   "options": [
+    "buccal cavity",
+    "lungs",
+    "trachea",
+    "skin"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 97,
+   "subject": "Biology",
+   "question": "Match List-I with List-II.\n\nA. Cristae\nB. Cisternae\nC. Thylakoids\nD. Phospholipid\n\nList-II:\nI. Flat membrane sacs in stroma of chloroplast\nII. Infoldings in mitochondria\nIII. Cell membrane\nIV. Disc shaped sacs in the Golgi apparatus\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "A-II, B-IV, C-I, D-III",
+    "A-II, B-IV, C-III, D-I",
+    "A-IV, B-III, C-I, D-II",
+    "A-III, B-IV, C-I, D-II"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 98,
+   "subject": "Biology",
+   "question": "Phyllotaxy is the pattern of arrangement of",
+   "options": [
+    "flowers",
+    "fruits",
+    "sepals",
+    "leaves"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 99,
+   "subject": "Biology",
+   "question": "Match List-I with List-II.\n\nList-I: A, B, C, D\nList-II: I, II, III, IV\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "A-III, B-II, C-I, D-IV",
+    "A-II, B-I, C-IV, D-II",
+    "A-II, B-IV, C-I, D-II",
+    "A-I, B-III, C-II, D-IV"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 100,
+   "subject": "Biology",
+   "question": "Arrange the following elements in descending order of their contribution to percentage weight of the human body.\n(a) Oxygen\n(b) Carbon\n(c) Hydrogen\n(d) Nitrogen\nChoose the correct answer from the options given below:",
+   "options": [
+    "(c), (a), (b), (d)",
+    "(b), (c), (d), (a)",
+    "(b), (a), (c), (d)",
+    "(a), (b), (c), (d)"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 101,
+   "subject": "Biology",
+   "question": "Length of the stem at time 0 is 20 cm. The arithmetic growth rate is 30 cm per day. What is the length of the stem at the end of the 7th day?",
+   "options": [
+    "170 cm",
+    "230 cm",
+    "460 cm",
+    "50 cm"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 102,
+   "subject": "Biology",
+   "question": "Given below are two statements:\n\nStatement I: In gymnosperms, the male and female gametophytes remain within the sporangia.\nStatement II: In gymnosperms, seeds are not covered.\n\nIn light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 103,
+   "subject": "Biology",
+   "question": "Smooth endoplasmic reticulum",
+   "options": [
+    "is the major site for the synthesis of lipids",
+    "is actively involved in protein synthesis",
+    "is a site for the synthesis of carbohydrates",
+    "has ribosomes attached to its surface"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 104,
+   "subject": "Biology",
+   "question": "Which of the following is not a characteristic of chordates?",
+   "options": [
+    "Central nervous system is dorsal",
+    "Absence of gills",
+    "Presence of post anal part (tail)",
+    "Presence of notochord"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 105,
+   "subject": "Biology",
+   "question": "How many molecules of pyruvic acid are produced at the end of glycolysis from 206 molecules of glucose?",
+   "options": [
+    "309",
+    "103",
+    "412",
+    "206"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 106,
+   "subject": "Biology",
+   "question": "The correct sequence of adult cell cycle phases is",
+   "options": [
+    "G1-M-G2-S",
+    "G1-S-G2-M",
+    "S-M-G2-G1",
+    "G1-G2-S-M"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 107,
+   "subject": "Biology",
+   "question": "Which of the following represents the correct sequence of arrangement of bones in the lower limb of humans?",
+   "options": [
+    "Patella-femur-tibia-tarsal",
+    "Femur-patella-tibia-tarsal",
+    "Femur-tarsal-patella-tibia",
+    "Femur-tibia-patella-tarsal"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 108,
+   "subject": "Biology",
+   "question": "Cell theory was formulated by",
+   "options": [
+    "Robert Brown",
+    "Singer and Nicolson",
+    "Antonie Von Leeuwenhoek",
+    "Schleiden and Schwann"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 109,
+   "subject": "Biology",
+   "question": "Given below are two statements:\nStatement I: Chromosomes are fully condensed at the end of prophase I.\nStatement II: Meiosis I resembles mitosis.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both Statement I and Statement II are false",
+    "Statement I is correct, but Statement II is false",
+    "Statement I is incorrect, but Statement II is true",
+    "Both Statement I and Statement II are true"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 110,
+   "subject": "Biology",
+   "question": "Which of the following statements regarding photorespiration are correct?\n(a) Does not occur in C3 plants\n(b) CO₂ is consumed and O₂ is generated\n(c) Phosphoglycolate is formed\n(d) No synthesis of ATP and NADPH\nChoose the correct answer from the options given below:",
+   "options": [
+    "(c) and (d) only",
+    "(b) and (d) only",
+    "(a) and (b) only",
+    "(a) and (d) only"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 111,
+   "subject": "Biology",
+   "question": "Which of the following are characteristics of prokaryotic cells?\n(a) Ribosomes are made of 50S and 30S subunits\n(b) They can have plasmids\n(c) They contain mesosome\n(d) They have peroxisomes\nChoose the correct answer from the options given below:",
+   "options": [
+    "(a) and (c) only",
+    "(a), (c) and (d) only",
+    "(a), (b) and (c) only",
+    "(b) and (c) only"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 112,
+   "subject": "Biology",
+   "question": "The number of action potentials generated by sino-atrial node (SAN) in a healthy human is per minute.",
+   "options": [
+    "70-75",
+    "100-110",
+    "120-140",
+    "28-30"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 113,
+   "subject": "Biology",
+   "question": "Endomembrane system includes",
+   "options": [
+    "endoplasmic reticulum, chloroplast, peroxisomes and vacuole",
+    "mitochondria, chloroplast, peroxisomes and vacuole",
+    "Golgi complex, chloroplast, peroxisomes and vacuole",
+    "endoplasmic reticulum, Golgi complex, lysosomes and vacuole"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 114,
+   "subject": "Biology",
+   "question": "Match List-I with List-II.\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "A-II, B-I, C-III, D-IV, E-V",
+    "A-II, B-III, C-V, D-I, E-IV",
+    "A-III, B-V, C-II, D-IV, E-I",
+    "A-I, B-V, C-II, D-IV, E-III"
+   ],
+   "correct": null,
+   "marks": 4
+  },
+  {
+   "id": 115,
+   "subject": "Biology",
+   "question": "Which of the following plant growth regulators promotes internode elongation prior to flowering in cabbage?",
+   "options": [
+    "Gibberellin",
+    "Indole butyric acid",
+    "Ethephon",
+    "Abscisic acid"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 116,
+   "subject": "Biology",
+   "question": "The plastid that stores xanthophyll is known as",
+   "options": [
+    "chromoplast",
+    "aleuroplast",
+    "amyloplast",
+    "chloroplast"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 117,
+   "subject": "Biology",
+   "question": "Photorespiration reaction catalyzed by RuBisCo is shown below:\nRuBP + O₂ → 3-Phosphoglycerate + X.\nIdentify “X” from the given options:",
+   "options": [
+    "2-Phosphoglycolate",
+    "Oxaloacetate",
+    "Malate",
+    "Phosphoenolpyruvate"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 118,
+   "subject": "Biology",
+   "question": "Match List-I with List-II.\n\nList-I\nA. Free central placentation\nB. [Text unclear, probably another placentation type]\nC. [Text unclear]\nD. [Text unclear]\n\nList-II\nI. [Text unclear]\nII. [Text unclear]\nIII. [Text unclear]\nIV. [Text unclear]\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "A-IV, B-II, C-III, D-I",
+    "A-IV, B-III, C-I, D-II",
+    "A-IV, B-III, C-I, D-II",
+    "A-II, B-IV, C-I, D-III"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 119,
+   "subject": "Biology",
+   "question": "Which of the following are characteristic features of Solanaceae family?\n(a) Flowers are bisexual and actinomorphic\n(b) Calyx have five sepals and are united\n(c) Androecium have five stamens and are epipetalous\n(d) Ovary is inferior\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "(d) only",
+    "(a) and (b) only",
+    "(b), (c) and (d) only",
+    "(a), (b) and (c) only"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 120,
+   "subject": "Biology",
+   "question": "Which pigment has absorption peak at 700 nm in the photosynthetic reaction centre PS I (P700)?",
+   "options": [
+    "Chlorophyll a",
+    "Xanthophylls",
+    "Carotenoids",
+    "Chlorophyll b"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 121,
+   "subject": "Biology",
+   "question": "Mitochondrial inner membrane encloses",
+   "options": [
+    "cytosol",
+    "mucus",
+    "aqueous humor",
+    "matrix"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 122,
+   "subject": "Biology",
+   "question": "Which of the following statements is incorrect?",
+   "options": [
+    "Blood clot consists of fibrins",
+    "Fibrin is produced from fibrinogen",
+    "Fibrinogen is produced from fibrin",
+    "Blood coagulates in response to an injury"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 123,
+   "subject": "Biology",
+   "question": "Symbiotic association between fungi and algae are called",
+   "options": [
+    "sponges",
+    "mycorrhiza",
+    "chrysophytes",
+    "lichens"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 124,
+   "subject": "Biology",
+   "question": "Which of the following is not a part of human central neural system?",
+   "options": [
+    "Dura mater",
+    "Pia mater",
+    "Pericardium",
+    "Arachnoid"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 125,
+   "subject": "Biology",
+   "question": "Which of the following plant growth regulators is used as herbicide?",
+   "options": [
+    "Kinetin",
+    "Abscisic acid",
+    "Gibberellin",
+    "2,4-D"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 126,
+   "subject": "Biology",
+   "question": "How many turns of Calvin cycle are required for the formation of three molecules of glucose?",
+   "options": [
+    "3",
+    "1",
+    "18",
+    "6"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 127,
+   "subject": "Biology",
+   "question": "Arrange the following taxonomic categories in ascending order:\n(a) Genus (b) Class (c) Order (d) Phylum (e) Family (f) Kingdom (g) Species\nChoose the correct answer from the options given below:",
+   "options": [
+    "(a), (c), (d), (g), (a), (b), (e)",
+    "(g), (c), (d), (b), (e), (a), (f)",
+    "(f), (c), (b), (g), (4), (e), (a)",
+    "(g), (a), (e), (c), (6), (a), (f)"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 128,
+   "subject": "Biology",
+   "question": "In frogs, the number of pairs of cranial nerves arising from the brain are:",
+   "options": [
+    "9",
+    "10",
+    "12",
+    "6"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 129,
+   "subject": "Biology",
+   "question": "Select the correct sequence of experiments that led to a gradual understanding of photosynthesis in green plants.",
+   "options": [
+    "Role of air + release of oxygen — production of glucose — absorption spectra of chlorophyll a and b",
+    "Release of oxygen — production of glucose — absorption spectra of chlorophyll a and b — role of air",
+    "Production of glucose — role of air — release of oxygen — absorption spectra of chlorophyll a and b",
+    "Absorption spectra of chlorophyll a and b — production of glucose — release of oxygen — role of air"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 130,
+   "subject": "Biology",
+   "question": "Sphenopsida class belongs to:",
+   "options": [
+    "angiosperms",
+    "gymnosperms",
+    "pteridophytes",
+    "bryophytes"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 131,
+   "subject": "Biology",
+   "question": "Match List-I with List-II.\n\nList-I:\nA. Fusion of protoplasms between gametes\nB. Fusion of two nuclei\nC. Generation of haploid spores\n\nList-II:\nI. Plasmogamy\nII. Karyogamy\nIII.",
+   "options": [
+    "All, B-I, C-III",
+    "A-III, B-II, C-I",
+    "A-I, B-III, C-II",
+    "A-II, B-III, C-I"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 132,
+   "subject": "Biology",
+   "question": "Which of the following is not a prokaryote?",
+   "options": [
+    "Blue green algae",
+    "Mycoplasma",
+    "Fungi",
+    "Bacteria"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 133,
+   "subject": "Biology",
+   "question": "Given below are two statements:\n\nStatement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.\n\nStatement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 134,
+   "subject": "Biology",
+   "question": "Genus represents",
+   "options": [
+    "a population of plants and animals",
+    "a group of closely related species",
+    "a group of closely related families",
+    "an individual plant or animal"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 135,
+   "subject": "Biology",
+   "question": "Mad cow disease is caused by",
+   "options": [
+    "viroids",
+    "Aspergillus sp.",
+    "Mycoplasma sp.",
+    "prions"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 136,
+   "subject": "Biology",
+   "question": "The opening between the right atrium and the right ventricle is guarded by",
+   "options": [
+    "tricuspid valve",
+    "semilunar valve",
+    "sino-atrial node",
+    "bicuspid valve"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 137,
+   "subject": "Biology",
+   "question": "The inactive form of Bt toxin is converted to the active form in the insect gut",
+   "options": [
+    "due to acidic pH",
+    "by proteases",
+    "by nucleases",
+    "due to alkaline pH"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 138,
+   "subject": "Biology",
+   "question": "Match List-I with List-II.\n\nList-I:\nA. Transformation\nB. Cloning site\nC. Selection\nD. Ori\n\nList-II:\nI. Restriction enzyme\nII. Transfer DNA to host bacteria\nIII. Replication\nIV. Antibiotic\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "A-I, B-II, C-IV, D-III",
+    "A-III, B-IV, C-II, D-I",
+    "A-IV, B-I, C-III, D-II",
+    "A-II, B-I, C-IV, D-III"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 139,
+   "subject": "Biology",
+   "question": "How many thecae are present in each lobe of a typical bilobed angiosperm anther?",
+   "options": [
+    "6",
+    "8",
+    "12",
+    "2"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 140,
+   "subject": "Biology",
+   "question": "Which of the following hormones is not secreted by human placenta?",
+   "options": [
+    "Estrogen",
+    "Progesterone",
+    "LH",
+    "hCG"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 141,
+   "subject": "Biology",
+   "question": "Sperm motility is due to",
+   "options": [
+    "ciliary movement",
+    "amoeboid movement",
+    "muscular movement",
+    "flagellar movement"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 142,
+   "subject": "Biology",
+   "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: In an experiment, Mendel observed that the F1 progeny plants are all tall and none are dwarf.\nReason R: Stem height is a contrasting trait, with tall being dominant and dwarf being recessive.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both A and R are correct but R is not the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct",
+    "Both A and R are correct and R is the correct explanation of A"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 143,
+   "subject": "Biology",
+   "question": "During PCR, primers bind to the DNA strands in the __ step.",
+   "options": [
+    "extension",
+    "annealing",
+    "ligation",
+    "denaturation"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 144,
+   "subject": "Biology",
+   "question": "Which of the following plants produces non-albuminous seeds?",
+   "options": [
+    "Maize",
+    "Barley",
+    "Pea",
+    "Wheat"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 145,
+   "subject": "Biology",
+   "question": "For a person with blood group 'O', which of the following is not a possible combination of parents’ blood group genotypes?",
+   "options": [
+    "Father: Ai and Mother: Ai",
+    "Father: Bi and Mother: BB",
+    "Father: AB and Mother: Ai",
+    "Father: Ai and Mother: B/B"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 146,
+   "subject": "Biology",
+   "question": "Which of the following is used as a clot buster?",
+   "options": [
+    "Penicillin",
+    "Cyclosporin A",
+    "Statins",
+    "Streptokinase"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 147,
+   "subject": "Biology",
+   "question": "Arrange the following in descending order of number of species in the Amazonian rain forest.\n(a) Plants\n(b) Birds\n(c) Fishes\n(d) Invertebrates\n(e) Mammals\nChoose the correct answer from the options given below:",
+   "options": [
+    "(d) > (a) > (c) > (b) > (e)",
+    "(e) > (b) > (a) > (c) > (d)",
+    "(b) > (a) > (d) > (c) > (e)",
+    "(c) > (b) > (d) > (e) > (a)"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 148,
+   "subject": "Biology",
+   "question": "Given below are two statements:\nStatement I: Plasmids are autonomously replicating DNA.\nStatement II: Plasmids are extrachromosomal DNA.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 149,
+   "subject": "Biology",
+   "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: Forelimbs of human and bats are homologous.\nReason R: Forelimbs of humans and bats have similar anatomical structure.\nIn the light of the above statements, choose the most appropriate answer from the options given below.",
+   "options": [
+    "Both A and R are true, but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true",
+    "Both A and R are correct and R is the correct explanation of A"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 150,
+   "subject": "Biology",
+   "question": "Which of the following statements about the reabsorption process in Henle's loop are correct?\n(a) The descending limb of Henle's loop is permeable to water but almost impermeable to electrolytes.\n(b) Urine gets concentrated in Henle's loop.\n(c) Reabsorption of Na⁺ and water takes place in Henle's loop.\n(d) Active or passive transport of electrolytes occurs in the ascending limb of Henle's loop.\nChoose the correct answer from the options given below:",
+   "options": [
+    "(b), (c) and (d) only",
+    "(a), (b) and (c) only",
+    "(a), (b) and (d) only",
+    "(a) and (b) only"
+   ],
+   "correct": null,
+   "marks": 4
+  },
+  {
+   "id": 151,
+   "subject": "Biology",
+   "question": "Which of the following are secondary lymphoid organs?\n(a) Bone marrow (b) Tonsils\n(c) Spleen (d) Thymus\nChoose the correct answer from the options given below:",
+   "options": [
+    "(b) and (c) only",
+    "(b) and (d) only",
+    "(a) and (d) only",
+    "(a) and (b) only"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 152,
+   "subject": "Biology",
+   "question": "Which of the following is the correct order of arrangement of vertebrate column from the head to toe?",
+   "options": [
+    "Sacrum, lumbar vertebra, thoracic vertebra, cervical vertebra",
+    "Cervical vertebra, lumbar vertebra, thoracic vertebra, sacrum",
+    "Cervical vertebra, thoracic vertebra, lumbar vertebra, sacrum",
+    "Cervical vertebra, thoracic vertebra, sacrum, lumbar vertebra"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 153,
+   "subject": "Biology",
+   "question": "If the diploid chromosome number of typical angiosperm is 36, what would be the chromosome number in its endosperm?",
+   "options": [
+    "36",
+    "54",
+    "72",
+    "18"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 154,
+   "subject": "Biology",
+   "question": "Sponges exchange O₂ with CO₂ by",
+   "options": [
+    "moist cuticle",
+    "tracheal tubes",
+    "gills",
+    "simple diffusion over their entire body surfaces"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 155,
+   "subject": "Biology",
+   "question": "Which of the following disease is not sexually transmitted?",
+   "options": [
+    "Tuberculosis",
+    "Gonorrhoea",
+    "Genital warts",
+    "Syphilis"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 156,
+   "subject": "Biology",
+   "question": "Which of the following in female gametophyte of an angiosperm helps in guiding the pollen tube for fertilizing the eggs?",
+   "options": [
+    "Synergids",
+    "Central cells",
+    "Polar nucleus",
+    "Antipodals"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 157,
+   "subject": "Biology",
+   "question": "Match List-I with List-II.\n\nList-I\n(A) Excess growth hormone\n(B) Luteinizing hormone\n(C) Vasopressin\n(D) Oxytocin\n\nList-II\n(1) Reabsorption of water and electrolytes in kidney\n(2) Contraction of uterus during child birth\n(3) Acromegaly\n(4) Ovulation\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "A-III, B-IV, C-I, D-II",
+    "A-III, B-IV, C-I, D-III",
+    "A-IV, B-III, C-I, D-II",
+    "A-III, B-IV, C-II, D-I"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 158,
+   "subject": "Biology",
+   "question": "The covering of ovum at ovulation is",
+   "options": [
+    "zona radiata",
+    "zona pellucida",
+    "chorion",
+    "endometrium"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 159,
+   "subject": "Biology",
+   "question": "Match List-I with List-II.\n\nList-I\nB. One species is harmed and the other is benefited\nC. Both species are benefited\nD. One is benefited while the other has no effect\n\nList-II\nI. Competition\nII. Mutualism\nIII. Predation\nIV. Commensalism\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "A-I, B-II, C-III, D-IV",
+    "A-II, B-I, C-IV, D-III",
+    "A-III, B-I, C-II, D-IV",
+    "A-III, B-IV, C-II, D-I"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 160,
+   "subject": "Biology",
+   "question": "Which of the following structure is not a part of the male reproductive system?",
+   "options": [
+    "Epididymis",
+    "Vasa efferentia",
+    "Infundibulum",
+    "Rete testis"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 161,
+   "subject": "Biology",
+   "question": "Which of the following are primary consumers in a food chain?",
+   "options": [
+    "Predators",
+    "Herbivores",
+    "Carnivores",
+    "Parasites"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 162,
+   "subject": "Biology",
+   "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A: Abingdon tortoise in Galapagos islands became extinct within a decade after goats were introduced.\n\nReason R: Goats were more efficient at browsing than Abingdon tortoise.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both A and R are correct but R is not the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct",
+    "Both A and R are correct and R is the correct explanation of A"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 163,
+   "subject": "Biology",
+   "question": "Which of the following statements about lac-operon is correct?",
+   "options": [
+    "Lactose activates repressor to bind to the operator",
+    "Genes i, z, y and a share single common promoter",
+    "Galactose can act as an inducer of lac operon",
+    "Gene j is constitutively expressed"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 164,
+   "subject": "Biology",
+   "question": "Which of the following statements is correct about Plasmodium?",
+   "options": [
+    "Reproduces sexually in RBCs",
+    "Gametocytes develop in mosquito gut",
+    "Fertilization takes place in mosquito gut",
+    "Reproduces sexually in liver cells"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 165,
+   "subject": "Biology",
+   "question": "A population of diploid organisms is at Hardy-Weinberg equilibrium. If the frequency of allele A is 0.1, the frequency of AA is",
+   "options": [
+    "0.02",
+    "0.10",
+    "0.99",
+    "0.01"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 166,
+   "subject": "Biology",
+   "question": "Adaptive radiation in placental mammals and Australian marsupials leading to similarity between distant species is an example of",
+   "options": [
+    "convergent evolution",
+    "founder effect",
+    "genetic drift",
+    "divergent evolution"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 167,
+   "subject": "Biology",
+   "question": "Colostrum, secreted by mother during initial days of lactation, is abundant in",
+   "options": [
+    "IgM",
+    "IgA",
+    "IgD",
+    "IgG"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 168,
+   "subject": "Biology",
+   "question": "Given below are two statements: one is labelled as Assertion A and the other as Reason R.\n\nAssertion A: In recombinant DNA technology, lysozyme is used for disrupting bacterial cells while cellulase is for plant cells.\n\nReason R: Isolation of genetic material needs disruption of cells.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both A and R are correct but R is not the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct",
+    "Both A and R are correct and R is the correct explanation of A"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 169,
+   "subject": "Biology",
+   "question": "Given below are two statements:\n\nStatement I: Ovulation is caused by LH surge leading to rupture of Graafian follicles.\n\nStatement II: Graafian follicle remaining after ovulation transform into corpus luteum and secretes large amount of estrogen.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 170,
+   "subject": "Biology",
+   "question": "Natural selection can lead to\n\n(a) stabilisation  (b) genetic drift\n\n(c) directional change  (d) disruption\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "(a), (c) and (d) only",
+    "(a), (b), (c) and (d)",
+    "(a) and (c) only",
+    "(a) only"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 171,
+   "subject": "Biology",
+   "question": "The method of directly injecting a sperm into ovum in assisted reproductive technology is called:",
+   "options": [
+    "Zygote intra fallopian transfer (ZIFT)",
+    "Intra cytoplasmic sperm injection (ICSI)",
+    "Embryo transfer (ET)",
+    "Gamete intra fallopian transfer (GIFT)"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 172,
+   "subject": "Biology",
+   "question": "Which of the following is used as an effective sedative and painkiller for treating post-surgery patients?",
+   "options": [
+    "Antibiotics",
+    "Morphine",
+    "Anti-retroviral drugs",
+    "Interferon"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 173,
+   "subject": "Biology",
+   "question": "Given below are two statements:\nStatement I: Down's syndrome is caused by the absence of one of the X-chromosomes.\nStatement II: Turner's syndrome is caused by the presence of an additional copy of the chromosomes.\nIn the light of the above statements, choose the correct answer from the options given below:",
+   "options": [
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 174,
+   "subject": "Biology",
+   "question": "Which of the following is not evidence for evolution?",
+   "options": [
+    "Paleontological evidence from fossil records",
+    "Embryological support for evolution as proposed by Ernst Haeckel",
+    "Divergent evolution of anatomical structures such as forelimbs",
+    "Convergent evolution of traits like wings of birds and butterflies"
+   ],
+   "correct": null,
+   "marks": 4
+  },
+  {
+   "id": 175,
+   "subject": "Biology",
+   "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A: The logistic growth model of populations is considered more realistic than the exponential growth model.\nReason R: Resources are finite.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both A and R are correct but R is not the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct",
+    "Both A and R are correct and R is the correct explanation of A"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 176,
+   "subject": "Biology",
+   "question": "Given below are two statements :\n\nStatement I: Modern Homo sapiens arose in Australia and moved across continents.\n\nStatement II: Homo sapiens arose around 75,000 to 10,000 years ago.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+   "options": [
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct"
+   ],
+   "correct": 2,
+   "marks": 4
+  },
+  {
+   "id": 177,
+   "subject": "Biology",
+   "question": "Consider a population of 10 million cells. Given the per-capita birth rate of 0.002 (per unit time) and the per-capita death rate of 0.002 (per unit time), the expected number of cells after 10 generations is",
+   "options": [
+    "5 million",
+    "10 million",
+    "100 million",
+    "1 million"
+   ],
+   "correct": 1,
+   "marks": 4
+  },
+  {
+   "id": 178,
+   "subject": "Biology",
+   "question": "Which of the following statements are correct?\n\n(a) Energy flow from producers to consumers is unidirectional\n\n(b) Energy pyramid can never be inverted\n\n(c) Transfer of energy follows the 1% law\n\nChoose the correct answer from the options given below:",
+   "options": [
+    "(a) and (b) only",
+    "(a) and (c) only",
+    "(b) and (c) only",
+    "(a), (b) and (c)"
+   ],
+   "correct": 0,
+   "marks": 4
+  },
+  {
+   "id": 179,
+   "subject": "Biology",
+   "question": "Muscle contraction is initiated by a signal sent by the central nervous system by the release of",
+   "options": [
+    "acetyl coenzyme A",
+    "cyclic guanine monophosphate",
+    "cyclic adenine monophosphate",
+    "acetyl choline"
+   ],
+   "correct": 3,
+   "marks": 4
+  },
+  {
+   "id": 180,
+   "subject": "Biology",
+   "question": "Which of the following enzymes synthesizes precursor mRNA?",
+   "options": [
+    "RNA polymerase II",
+    "RNA polymerase III",
+    "DNA polymerase",
+    "RNA polymerase I"
+   ],
+   "correct": 0,
+   "marks": 4
+  }
+ ]
+}
