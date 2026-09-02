@@ -4,8 +4,13 @@ Outputs per question: <id>_question.png (stem+options, answer de-highlighted),
 Pure PIL+numpy (no OCR). Tuned to the consistent ExamGOAL mobile layout.
 """
 import sys
+import re
 import numpy as np
 from PIL import Image
+try:
+    import pytesseract
+except Exception:
+    pytesseract = None
 
 def load(path):
     im = Image.open(path).convert("RGB")
@@ -51,22 +56,9 @@ def trim(imcrop):
     return imcrop.crop((x0,y0,x1,y1))
 
 def clean_option(imcrop, is_correct):
-    arr = np.asarray(imcrop.convert("RGB")).copy()
-    h,w,_ = arr.shape
-    # remove bottom-right "% users" pill (all options)
-    arr[max(0,h-42):h, int(w*0.58):w] = 255
-    if is_correct:
-        # correct option is rendered green: kill top "Correct answer" badge + green border frame
-        arr[0:52, :] = 255
-        fr = 24
-        arr[0:fr, :] = 255; arr[h-fr:h, :] = 255
-        arr[:, 0:fr] = 255; arr[:, w-fr:w] = 255
-        r,g,b = arr[...,0].astype(int),arr[...,1].astype(int),arr[...,2].astype(int)
-        lum = 0.3*r+0.59*g+0.11*b
-        greenish = (g > r + 5) & (g > b + 5) & (g > 90)
-        arr[greenish & (lum < 178)] = [45,45,45]     # green text/letter -> dark
-        arr[greenish & (lum >= 178)] = [255,255,255]  # pale green bg -> white
-    return Image.fromarray(arr.astype(np.uint8))
+    """Way 2: keep the FULL original option card (badge, border, and the green
+    'correct' highlight stay as-is). Just trim margins; no cleaning."""
+    return trim(imcrop)
 
 def analyze(path, out_prefix, outdir, save=True):
     im, a = load(path)
@@ -77,6 +69,19 @@ def analyze(path, out_prefix, outdir, save=True):
     # NEET banner (pale green) right after blue nav
     lg = [bd for bd in bands(m["lgreen"], 0.5, 8) if bd[0] >= blue_end-5 and bd[0] < blue_end+180]
     q_top = lg[0][1] if lg else blue_end + 60
+    # OCR the year from the green "NEET 20XX" banner
+    year = "NEET"
+    if pytesseract is not None:
+        try:
+            banner = im.crop((0, blue_end, W, q_top + 12))
+            txt = pytesseract.image_to_string(banner)
+            mo = re.search(r"20\d\d", txt)
+            if mo:
+                year = f"NEET {mo.group()}"
+                if re.search(r"re[- ]?exam", txt, re.I):
+                    year += " (Re-Exam)"
+        except Exception:
+            pass
     # explanation banner(s)
     lbb = bands(m["lblue"], 0.5, 10)
     lbb = [bd for bd in lbb if bd[0] > q_top+80]
@@ -136,9 +141,9 @@ def analyze(path, out_prefix, outdir, save=True):
         qimg = im.crop((xpad0, stem[0], xpad1, stem[1]))
         qimg = trim(qimg)
         qimg.save(f"{outdir}/{out_prefix}_question.png")
-        # per-option crops (correct option de-highlighted; % badge removed)
+        # per-option crops = FULL original card (way 2); pad to keep top/bottom border + badge
         for idx,(bs,be) in enumerate(opts):
-            oc = im.crop((xpad0, bs, xpad1, be))
+            oc = im.crop((xpad0, max(0, bs-10), xpad1, min(H, be+10)))
             oc = clean_option(oc, "abcd"[idx] == answer)
             oc = trim(oc)
             oc.save(f"{outdir}/{out_prefix}_opt_{'abcd'[idx]}.png")
@@ -146,7 +151,7 @@ def analyze(path, out_prefix, outdir, save=True):
         simg = im.crop((xpad0, expl_start, xpad1, sol_bottom))
         simg = trim(simg)
         simg.save(f"{outdir}/{out_prefix}_solution.png")
-    return dict(answer=answer, nopts=len(opts))
+    return dict(answer=answer, nopts=len(opts), year=year)
 
 if __name__ == "__main__":
     import os

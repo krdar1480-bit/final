@@ -25,6 +25,7 @@ for old in glob.glob(f"{IMG_DIR}/um_q*.png"):
 
 questions = []
 qno = 0
+LIMIT = int(os.environ.get("UM_LIMIT", "5"))   # sample: first 5 only
 for f in uniq:
     base = os.path.basename(f)
     res = B.analyze(f, "tmp", "/tmp/um_stage", save=False)
@@ -35,13 +36,15 @@ for f in uniq:
     B.analyze(f, prefix, IMG_DIR, save=True)
     q = {
         "question_no": qno,
-        "year": "NEET",
+        "year": res.get("year", "NEET"),
         "answer": res["answer"],
         "question_image": f"{prefix}_question.png",
         "option_images": {L: f"{prefix}_opt_{L}.png" for L in "abcd"},
         "solution_image": f"{prefix}_solution.png",
     }
     questions.append(q)
+    if qno >= LIMIT:
+        break
 
 bank = {
     "key": "neet-physics-units-and-measurements",

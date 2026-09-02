@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { getChapterBank, chapterImageUrl } from "@/lib/api";
 import { Header } from "@/components/Header";
-import { Atom, Loader2, CheckCircle2, XCircle, Eye, ChevronRight, ChevronLeft, Layers, Maximize2 } from "lucide-react";
+import { Atom, Loader2, CheckCircle2, Eye, ChevronRight, ChevronLeft, Layers, Maximize2 } from "lucide-react";
 import ImageZoomModal from "@/components/ImageZoomModal";
 
 const LETTERS = ["a", "b", "c", "d"];
@@ -178,34 +178,19 @@ export default function ChapterPractice() {
                               const optImg = q.option_images?.[L];
                               if (!optImg) return null;
                               const isPick = pick === L;
-                              const isAns = q.answer === L;
-                              let cls = "border-slate-200 bg-white hover:border-blue-300 hover:bg-blue-50/40";
-                              let badge = "border-slate-300 text-slate-500";
-                              if (show) {
-                                if (isAns) { cls = "border-emerald-400 bg-emerald-50"; badge = "border-emerald-500 bg-emerald-500 text-white"; }
-                                else if (isPick) { cls = "border-rose-300 bg-rose-50"; badge = "border-rose-400 bg-rose-400 text-white"; }
-                                else { cls = "border-slate-200 bg-white opacity-70"; }
-                              } else if (isPick) {
-                                cls = "border-blue-500 bg-blue-50 ring-1 ring-blue-500"; badge = "border-blue-500 bg-blue-500 text-white";
-                              }
                               return (
                                 <button
                                   key={L}
                                   disabled={show}
                                   onClick={() => setPicks((p) => ({ ...p, [q.question_no]: L }))}
-                                  className={`flex w-full items-center gap-3 rounded-xl border px-3 py-2.5 text-left transition-all ${cls}`}
+                                  className={`block w-full overflow-hidden rounded-2xl transition-all ${isPick && !show ? "ring-2 ring-blue-500 ring-offset-1" : ""}`}
                                 >
-                                  <span className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-[11px] font-bold uppercase ${badge}`}>{L}</span>
-                                  <span className="min-w-0 flex-1 overflow-hidden">
-                                    <img
-                                      src={chapterImageUrl(optImg)}
-                                      alt={`Option ${L.toUpperCase()}`}
-                                      className="h-auto max-h-8 w-auto max-w-full object-contain md:max-h-20"
-                                      loading="lazy"
-                                    />
-                                  </span>
-                                  {show && isAns && <CheckCircle2 className="h-4 w-4 shrink-0 text-emerald-600" />}
-                                  {show && isPick && !isAns && <XCircle className="h-4 w-4 shrink-0 text-rose-500" />}
+                                  <img
+                                    src={chapterImageUrl(optImg)}
+                                    alt={`Option ${L.toUpperCase()}`}
+                                    className="block h-auto w-full"
+                                    loading="lazy"
+                                  />
                                 </button>
                               );
                             })}
